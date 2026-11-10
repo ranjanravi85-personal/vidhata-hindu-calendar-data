@@ -966,7 +966,7 @@
    "tithi": 1,
    "at": "sunrise",
    "kshaya": "running-day",
-   "basis": "Kartika Shukla Pratipada at sunrise (udaya, Drik Panchang convention; founder ruling 2026-10-25); a kshaya pratipada goes to the day it runs"
+   "basis": "Kartika Shukla Pratipada at sunrise (udaya, Drik Panchang convention; Vidhata convention); a kshaya pratipada goes to the day it runs"
   },
   "bhai-dooj": {
    "kind": "lunar",
