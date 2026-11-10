@@ -1,0 +1,13 @@
+location_slug,location_name,latitude,longitude,timezone,season_code,from_date,to_date,reason
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,kharmas,2026-12-16,2027-01-14,"Sun in sidereal Dhanu (Sagittarius). Kharmas: no griha pravesh, marriage or other samskara."
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,malmas,2027-03-15,2027-04-14,Sun in sidereal Meena (Pisces). Malmas / Meen Kharmas: treated like Kharmas for griha pravesh.
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,shukra_asta,2027-07-04,2027-09-20,"Shukra asta: Venus combust (engine orb), plus 3 vriddha days before and 3 bala days after."
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,chaturmas,2027-07-13,2027-11-09,"Chaturmas, Devshayani (Ashadha Shukla Ekadashi) to Prabodhini (Kartika Shukla Ekadashi): Vishnu sleeps, no griha pravesh."
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,guru_asta,2027-08-14,2027-09-17,"Guru asta: Jupiter combust (engine orb), plus 3 vriddha days before and 3 bala days after."
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,kharmas,2027-12-16,2028-01-14,"Sun in sidereal Dhanu (Sagittarius). Kharmas: no griha pravesh, marriage or other samskara."
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,kharmas,2026-12-16,2027-01-14,"Sun in sidereal Dhanu (Sagittarius). Kharmas: no griha pravesh, marriage or other samskara."
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,malmas,2027-03-15,2027-04-14,Sun in sidereal Meena (Pisces). Malmas / Meen Kharmas: treated like Kharmas for griha pravesh.
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,shukra_asta,2027-07-04,2027-09-20,"Shukra asta: Venus combust (engine orb), plus 3 vriddha days before and 3 bala days after."
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,chaturmas,2027-07-13,2027-11-09,"Chaturmas, Devshayani (Ashadha Shukla Ekadashi) to Prabodhini (Kartika Shukla Ekadashi): Vishnu sleeps, no griha pravesh."
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,guru_asta,2027-08-14,2027-09-17,"Guru asta: Jupiter combust (engine orb), plus 3 vriddha days before and 3 bala days after."
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,kharmas,2027-12-16,2028-01-14,"Sun in sidereal Dhanu (Sagittarius). Kharmas: no griha pravesh, marriage or other samskara."

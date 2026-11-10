@@ -1,0 +1,41 @@
+city_slug,city_name,latitude,longitude,timezone,tier_order,tier_code,tier_rule,day_count,period_start,period_end
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",96,2026-11-01,2027-06-30
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",64,2026-11-01,2027-06-30
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",25,2026-11-01,2027-06-30
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",98,2026-11-01,2027-06-30
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",65,2026-11-01,2027-06-30
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",24,2026-11-01,2027-06-30
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",96,2026-11-01,2027-06-30
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",65,2026-11-01,2027-06-30
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",23,2026-11-01,2027-06-30
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),17,2026-11-01,2027-06-30
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",96,2026-11-01,2027-06-30
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",64,2026-11-01,2027-06-30
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",25,2026-11-01,2027-06-30
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",97,2026-11-01,2027-06-30
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",65,2026-11-01,2027-06-30
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",24,2026-11-01,2027-06-30
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",96,2026-11-01,2027-06-30
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",64,2026-11-01,2027-06-30
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",25,2026-11-01,2027-06-30
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30
+pune,Pune,18.5204,73.8567,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",98,2026-11-01,2027-06-30
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",65,2026-11-01,2027-06-30
+pune,Pune,18.5204,73.8567,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",24,2026-11-01,2027-06-30
+pune,Pune,18.5204,73.8567,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",99,2026-11-01,2027-06-30
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",65,2026-11-01,2027-06-30
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",24,2026-11-01,2027-06-30
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",96,2026-11-01,2027-06-30
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",64,2026-11-01,2027-06-30
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",25,2026-11-01,2027-06-30
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in one of the eleven vivaha nakshatras (Rohini, Mrigashira, Magha, Uttara Phalguni, Hasta, Swati, Anuradha, Mula, Uttara Ashadha, Uttara Bhadrapada, Revati); nothing else checked",96,2026-11-01,2027-06-30
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2,plusSeasons,"and outside Chaturmas, Kharmas, Malmas, adhik maas, the vivaha solar month rule and Venus or Jupiter combustion",64,2026-11-01,2027-06-30
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Bhadra (Vishti karana)",25,2026-11-01,2027-06-30
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,4,strict,and not a Tuesday or Saturday (the published list),19,2026-11-01,2027-06-30

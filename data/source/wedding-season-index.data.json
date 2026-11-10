@@ -1,0 +1,1667 @@
+{
+  "range": {
+    "start": "2026-11-01",
+    "end": "2027-06-30"
+  },
+  "pauseScanEnd": "2027-07-31",
+  "months": [
+    "2026-11",
+    "2026-12",
+    "2027-01",
+    "2027-02",
+    "2027-03",
+    "2027-04",
+    "2027-05",
+    "2027-06"
+  ],
+  "cities": [
+    {
+      "slug": "new-delhi",
+      "name": "New Delhi",
+      "hi": "नई दिल्ली",
+      "lat": 28.6139,
+      "lon": 77.209,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 96,
+        "plusSeasons": 64,
+        "plusTithiYogaKarana": 25,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "mumbai",
+      "name": "Mumbai",
+      "hi": "मुंबई",
+      "lat": 19.076,
+      "lon": 72.8777,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 98,
+        "plusSeasons": 65,
+        "plusTithiYogaKarana": 24,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "kolkata",
+      "name": "Kolkata",
+      "hi": "कोलकाता",
+      "lat": 22.5726,
+      "lon": 88.3639,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 3,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 0
+      },
+      "total": 17,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 96,
+        "plusSeasons": 65,
+        "plusTithiYogaKarana": 23,
+        "strict": 17
+      },
+      "lostVsDelhi": [
+        {
+          "date": "2027-01-31",
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Navami",
+          "warnings": [
+            "Avoid tithi: Krishna Navami"
+          ]
+        },
+        {
+          "date": "2027-06-21",
+          "nakshatra": "Purva Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "warnings": []
+        }
+      ],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "chennai",
+      "name": "Chennai",
+      "hi": "चेन्नई",
+      "lat": 13.0827,
+      "lon": 80.2707,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 96,
+        "plusSeasons": 64,
+        "plusTithiYogaKarana": 25,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "bengaluru",
+      "name": "Bengaluru",
+      "hi": "बेंगलुरु",
+      "lat": 12.9716,
+      "lon": 77.5946,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 97,
+        "plusSeasons": 65,
+        "plusTithiYogaKarana": 24,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "hyderabad",
+      "name": "Hyderabad",
+      "hi": "हैदराबाद",
+      "lat": 17.385,
+      "lon": 78.4867,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 96,
+        "plusSeasons": 64,
+        "plusTithiYogaKarana": 25,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "pune",
+      "name": "Pune",
+      "hi": "पुणे",
+      "lat": 18.5204,
+      "lon": 73.8567,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 98,
+        "plusSeasons": 65,
+        "plusTithiYogaKarana": 24,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "ahmedabad",
+      "name": "Ahmedabad",
+      "hi": "अहमदाबाद",
+      "lat": 23.0225,
+      "lon": 72.5714,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 99,
+        "plusSeasons": 65,
+        "plusTithiYogaKarana": 24,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "jaipur",
+      "name": "Jaipur",
+      "hi": "जयपुर",
+      "lat": 26.9124,
+      "lon": 75.7873,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 96,
+        "plusSeasons": 64,
+        "plusTithiYogaKarana": 25,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    },
+    {
+      "slug": "lucknow",
+      "name": "Lucknow",
+      "hi": "लखनऊ",
+      "lat": 26.8467,
+      "lon": 80.9462,
+      "byMonth": {
+        "2026-11": 2,
+        "2026-12": 3,
+        "2027-01": 4,
+        "2027-02": 1,
+        "2027-03": 3,
+        "2027-04": 2,
+        "2027-05": 3,
+        "2027-06": 1
+      },
+      "total": 19,
+      "dates": [
+        {
+          "date": "2026-11-25",
+          "weekday": 3,
+          "nakshatra": "Rohini",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-11-26",
+          "weekday": 4,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-03",
+          "weekday": 4,
+          "nakshatra": "Uttara Phalguni",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-04",
+          "weekday": 5,
+          "nakshatra": "Hasta",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2026-12-06",
+          "weekday": 0,
+          "nakshatra": "Swati",
+          "tithiName": "Krishna Trayodashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-15",
+          "weekday": 5,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Saptami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": 3,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Trayodashi",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-01-24",
+          "weekday": 0,
+          "nakshatra": "Magha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-01-31",
+          "weekday": 0,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Dashami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Panchami",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": 4,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Ekadashi",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": 3,
+          "nakshatra": "Uttara Bhadrapada",
+          "tithiName": "Shukla Dwitiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": 4,
+          "nakshatra": "Revati",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-04-26",
+          "weekday": 1,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Panchami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": 3,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Saptami",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-09",
+          "weekday": 0,
+          "nakshatra": "Mrigashira",
+          "tithiName": "Shukla Tritiya",
+          "paksha": "Shukla"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": 5,
+          "nakshatra": "Anuradha",
+          "tithiName": "Krishna Pratipada",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-05-23",
+          "weekday": 0,
+          "nakshatra": "Mula",
+          "tithiName": "Krishna Tritiya",
+          "paksha": "Krishna"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": 1,
+          "nakshatra": "Uttara Ashadha",
+          "tithiName": "Krishna Dwitiya",
+          "paksha": "Krishna"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 96,
+        "plusSeasons": 64,
+        "plusTithiYogaKarana": 25,
+        "strict": 19
+      },
+      "lostVsDelhi": [],
+      "gainedVsDelhi": []
+    }
+  ],
+  "pauses": [
+    {
+      "code": "chaturmas",
+      "from": "2026-11-01",
+      "to": "2026-11-20"
+    },
+    {
+      "code": "shukra_asta",
+      "from": "2026-11-01",
+      "to": "2026-11-01"
+    },
+    {
+      "code": "kharmas",
+      "from": "2026-12-16",
+      "to": "2027-01-14"
+    },
+    {
+      "code": "malmas",
+      "from": "2027-03-15",
+      "to": "2027-04-14"
+    },
+    {
+      "code": "shukra_asta",
+      "from": "2027-07-04",
+      "to": "2027-07-31"
+    },
+    {
+      "code": "chaturmas",
+      "from": "2027-07-13",
+      "to": "2027-07-31"
+    },
+    {
+      "code": "vivah_solar_month",
+      "from": "2027-07-17",
+      "to": "2027-07-31"
+    }
+  ]
+}

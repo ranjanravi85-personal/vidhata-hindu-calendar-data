@@ -1,0 +1,9 @@
+location_slug,location_name,latitude,longitude,timezone,tier_order,tier_code,tier_rule,day_count,period_start,period_end
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in a griha pravesh nakshatra (Rohini, Mrigashira, Pushya, Hasta, Anuradha, Revati, Uttara Phalguni, Uttara Ashadha, Uttara Bhadrapada); nothing else checked",119,2027-01-01,2027-12-31
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,2,plusSeasons,"and outside every seasonal exclusion (Kharmas, Malmas, Chaturmas, adhik or kshaya maas, Shukra or Guru asta with 3 days margin each side)",59,2027-01-01,2027-12-31
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Vishti karana",26,2027-01-01,2027-12-31
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,4,strict,"and not a Sunday, Tuesday or Saturday (the published list)",17,2027-01-01,2027-12-31
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,1,nakshatraOnly,"Moon at sunrise in a griha pravesh nakshatra (Rohini, Mrigashira, Pushya, Hasta, Anuradha, Revati, Uttara Phalguni, Uttara Ashadha, Uttara Bhadrapada); nothing else checked",117,2027-01-01,2027-12-31
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2,plusSeasons,"and outside every seasonal exclusion (Kharmas, Malmas, Chaturmas, adhik or kshaya maas, Shukra or Guru asta with 3 days margin each side)",59,2027-01-01,2027-12-31
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,3,plusTithiYogaKarana,"and no avoided tithi, no avoided nakshatra, no inauspicious yoga, no Vishti karana",25,2027-01-01,2027-12-31
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,4,strict,"and not a Sunday, Tuesday or Saturday (the published list)",16,2027-01-01,2027-12-31

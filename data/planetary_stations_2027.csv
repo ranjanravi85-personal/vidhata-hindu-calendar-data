@@ -1,0 +1,4 @@
+planet,station,sign,degree_in_sign,ist_date,ist_time,utc_instant
+jupiter,direct,Karka (Cancer),22.75,2027-04-13,08:13,2027-04-13T02:43Z
+saturn,retrograde,Mesha (Aries),3.63,2027-08-09,22:54,2027-08-09T17:24Z
+saturn,direct,Meena (Pisces),26.77,2027-12-24,09:04,2027-12-24T03:34Z

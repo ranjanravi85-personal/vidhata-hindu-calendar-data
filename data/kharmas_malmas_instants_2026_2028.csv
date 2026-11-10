@@ -1,0 +1,7 @@
+period,kind,event,ist_date,ist_time,utc_instant
+kharmas_2026_27,kharmas,sunEntersDhanu,2026-12-16,10:25,2026-12-16T04:55Z
+kharmas_2026_27,kharmas,sunEntersMakara,2027-01-14,21:10,2027-01-14T15:40Z
+malmas_2027,malmas,sunEntersMeena,2027-03-15,07:00,2027-03-15T01:30Z
+malmas_2027,malmas,sunEntersMesha,2027-04-14,15:28,2027-04-14T09:58Z
+kharmas_2027_28,kharmas,sunEntersDhanu,2027-12-16,16:39,2027-12-16T11:09Z
+kharmas_2027_28,kharmas,sunEntersMakara,2028-01-15,03:24,2028-01-14T21:54Z

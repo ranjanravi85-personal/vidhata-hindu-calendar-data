@@ -1,0 +1,854 @@
+{
+  "year": 2027,
+  "method": "Every figure is computed by the app's own engine; nothing is typed by hand. GRIHA PRAVESH: for every civil day of 2027 the panchang (computePanchanga) is read at local sunrise. A day is listed only when ALL hold: the Moon is in a griha pravesh nakshatra of RULES.griha_pravesh (app/lib/muhurat.ts: Rohini, Mrigashira, Pushya, Hasta, Anuradha, Revati, Uttara Phalguni, Uttara Ashadha, Uttara Bhadrapada); scoreDay(p, 'griha_pravesh') raises no warning (no avoid-nakshatra, no avoided tithi 4/8/9/14/Amavasya in either paksha, no Sunday/Tuesday/Saturday, no inauspicious yoga, no Vishti karana); and seasonalExclusionsFor('griha_pravesh', ...) from app/lib/muhurat-exclusions.ts is empty: Kharmas (Sun in Dhanu), Malmas (Sun in Meena), Chaturmas, adhik and kshaya maas, Shukra and Guru asta with 3 vriddha/bala days each side. A season excludes a day when any part of the sunrise-to-sunrise day is inside it (both sunrises are tested), the convention Drik Panchang prints as a partial overlap. This is the same filter (web/test/wedding-season-index-derivation.ts) the Wedding Season Index and the 2026 vivah report use for marriage, run with the griha_pravesh rules. Drik Panchang additionally restricts griha pravesh to six lunar months; the app does not, so this list is a superset of Drik's on that axis. INGRESSES and STATIONS: sidereal (Lahiri) longitudes through the Swiss Ephemeris wrapper, sampled daily at 00:00 IST and bisected to well under a minute; every crossing is verified one minute either side. Rahu is the mean node; Ketu is Rahu + 180 degrees. KHARMAS / MALMAS: the Sun's sidereal ingress instants, bisected the same way. An instant is a single astronomical moment shown in IST, not a city time.",
+  "generatedWith": {
+    "engine": "Swiss Ephemeris via supabase/functions/_shared/swisseph (sweph npm 2.10.3-5)",
+    "ephemeris": "SWIEPH requested (not Moshier); data files sepl_18.se1 / semo_18.se1 at supabase/functions/_shared/ephe",
+    "ayanamsa": "Lahiri (Chitrapaksha)",
+    "nodeType": "mean node (wrapper default; no chart path in the app passes nodeMode 'true')",
+    "astaOrbsDegrees": {
+      "venusDirect": 10,
+      "venusRetrograde": 8,
+      "jupiter": 11
+    },
+    "referenceLocation": {
+      "slug": "ujjain",
+      "name": "Ujjain",
+      "hi": "उज्जैन",
+      "lat": 23.1765,
+      "lon": 75.7885,
+      "note": "Ujjain (Ujjayini / Avanti) meridian, the reference of the 2026 vivah report and the festival tables. Sunrise-based facts (griha pravesh days, season days) are local; instants (ingresses, sankrantis, stations) are not."
+    },
+    "alsoComputed": {
+      "slug": "new-delhi",
+      "name": "New Delhi",
+      "hi": "नई दिल्ली",
+      "lat": 28.6139,
+      "lon": 77.209
+    },
+    "timeZone": "IST, UTC+05:30"
+  },
+  "griha_pravesh": {
+    "reference": "ujjain",
+    "ujjain": {
+      "byMonth": {
+        "2027-01": 3,
+        "2027-02": 2,
+        "2027-03": 3,
+        "2027-04": 1,
+        "2027-05": 2,
+        "2027-06": 1,
+        "2027-07": 0,
+        "2027-08": 0,
+        "2027-09": 0,
+        "2027-10": 0,
+        "2027-11": 3,
+        "2027-12": 2
+      },
+      "total": 17,
+      "dates": [
+        {
+          "date": "2027-01-15",
+          "weekday": "Friday",
+          "tithi": "Shukla Saptami",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": "Wednesday",
+          "tithi": "Shukla Trayodashi",
+          "paksha": "Shukla",
+          "nakshatra": "Mrigashira"
+        },
+        {
+          "date": "2027-01-27",
+          "weekday": "Wednesday",
+          "tithi": "Krishna Shashthi",
+          "paksha": "Krishna",
+          "nakshatra": "Hasta"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": "Thursday",
+          "tithi": "Shukla Panchami",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        },
+        {
+          "date": "2027-02-19",
+          "weekday": "Friday",
+          "tithi": "Shukla Trayodashi",
+          "paksha": "Shukla",
+          "nakshatra": "Pushya"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": "Thursday",
+          "tithi": "Krishna Ekadashi",
+          "paksha": "Krishna",
+          "nakshatra": "Uttara Ashadha"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": "Wednesday",
+          "tithi": "Shukla Dwitiya",
+          "paksha": "Shukla",
+          "nakshatra": "Uttara Bhadrapada"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": "Thursday",
+          "tithi": "Shukla Tritiya",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": "Wednesday",
+          "tithi": "Krishna Saptami",
+          "paksha": "Krishna",
+          "nakshatra": "Uttara Ashadha"
+        },
+        {
+          "date": "2027-05-17",
+          "weekday": "Monday",
+          "tithi": "Shukla Dwadashi",
+          "paksha": "Shukla",
+          "nakshatra": "Hasta"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": "Friday",
+          "tithi": "Krishna Pratipada",
+          "paksha": "Krishna",
+          "nakshatra": "Anuradha"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": "Monday",
+          "tithi": "Krishna Dwitiya",
+          "paksha": "Krishna",
+          "nakshatra": "Uttara Ashadha"
+        },
+        {
+          "date": "2027-11-12",
+          "weekday": "Friday",
+          "tithi": "Shukla Trayodashi",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        },
+        {
+          "date": "2027-11-19",
+          "weekday": "Friday",
+          "tithi": "Krishna Shashthi",
+          "paksha": "Krishna",
+          "nakshatra": "Pushya"
+        },
+        {
+          "date": "2027-11-24",
+          "weekday": "Wednesday",
+          "tithi": "Krishna Ekadashi",
+          "paksha": "Krishna",
+          "nakshatra": "Hasta"
+        },
+        {
+          "date": "2027-12-08",
+          "weekday": "Wednesday",
+          "tithi": "Shukla Dashami",
+          "paksha": "Shukla",
+          "nakshatra": "Uttara Bhadrapada"
+        },
+        {
+          "date": "2027-12-09",
+          "weekday": "Thursday",
+          "tithi": "Shukla Ekadashi",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 119,
+        "plusSeasons": 59,
+        "plusTithiYogaKarana": 26,
+        "strict": 17
+      },
+      "excludedSeasons": [
+        {
+          "code": "kharmas",
+          "from": "2026-12-16",
+          "to": "2027-01-14",
+          "why": "Sun in sidereal Dhanu (Sagittarius). Kharmas: no griha pravesh, marriage or other samskara."
+        },
+        {
+          "code": "malmas",
+          "from": "2027-03-15",
+          "to": "2027-04-14",
+          "why": "Sun in sidereal Meena (Pisces). Malmas / Meen Kharmas: treated like Kharmas for griha pravesh."
+        },
+        {
+          "code": "shukra_asta",
+          "from": "2027-07-04",
+          "to": "2027-09-20",
+          "why": "Shukra asta: Venus combust (engine orb), plus 3 vriddha days before and 3 bala days after."
+        },
+        {
+          "code": "chaturmas",
+          "from": "2027-07-13",
+          "to": "2027-11-09",
+          "why": "Chaturmas, Devshayani (Ashadha Shukla Ekadashi) to Prabodhini (Kartika Shukla Ekadashi): Vishnu sleeps, no griha pravesh."
+        },
+        {
+          "code": "guru_asta",
+          "from": "2027-08-14",
+          "to": "2027-09-17",
+          "why": "Guru asta: Jupiter combust (engine orb), plus 3 vriddha days before and 3 bala days after."
+        },
+        {
+          "code": "kharmas",
+          "from": "2027-12-16",
+          "to": "2028-01-14",
+          "why": "Sun in sidereal Dhanu (Sagittarius). Kharmas: no griha pravesh, marriage or other samskara."
+        }
+      ],
+      "chaturmasEkadashis": {
+        "devshayani": {
+          "date": "2027-07-14",
+          "kshaya": false,
+          "lunarMonth": "Ashadha"
+        },
+        "prabodhini": {
+          "date": "2027-11-10",
+          "kshaya": false,
+          "lunarMonth": "Kartik"
+        }
+      }
+    },
+    "newDelhi": {
+      "byMonth": {
+        "2027-01": 3,
+        "2027-02": 2,
+        "2027-03": 3,
+        "2027-04": 1,
+        "2027-05": 2,
+        "2027-06": 1,
+        "2027-07": 0,
+        "2027-08": 0,
+        "2027-09": 0,
+        "2027-10": 0,
+        "2027-11": 3,
+        "2027-12": 1
+      },
+      "total": 16,
+      "dates": [
+        {
+          "date": "2027-01-15",
+          "weekday": "Friday",
+          "tithi": "Shukla Saptami",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        },
+        {
+          "date": "2027-01-20",
+          "weekday": "Wednesday",
+          "tithi": "Shukla Trayodashi",
+          "paksha": "Shukla",
+          "nakshatra": "Mrigashira"
+        },
+        {
+          "date": "2027-01-27",
+          "weekday": "Wednesday",
+          "tithi": "Krishna Shashthi",
+          "paksha": "Krishna",
+          "nakshatra": "Hasta"
+        },
+        {
+          "date": "2027-02-11",
+          "weekday": "Thursday",
+          "tithi": "Shukla Panchami",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        },
+        {
+          "date": "2027-02-19",
+          "weekday": "Friday",
+          "tithi": "Shukla Trayodashi",
+          "paksha": "Shukla",
+          "nakshatra": "Pushya"
+        },
+        {
+          "date": "2027-03-04",
+          "weekday": "Thursday",
+          "tithi": "Krishna Ekadashi",
+          "paksha": "Krishna",
+          "nakshatra": "Uttara Ashadha"
+        },
+        {
+          "date": "2027-03-10",
+          "weekday": "Wednesday",
+          "tithi": "Shukla Dwitiya",
+          "paksha": "Shukla",
+          "nakshatra": "Uttara Bhadrapada"
+        },
+        {
+          "date": "2027-03-11",
+          "weekday": "Thursday",
+          "tithi": "Shukla Tritiya",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        },
+        {
+          "date": "2027-04-28",
+          "weekday": "Wednesday",
+          "tithi": "Krishna Saptami",
+          "paksha": "Krishna",
+          "nakshatra": "Uttara Ashadha"
+        },
+        {
+          "date": "2027-05-17",
+          "weekday": "Monday",
+          "tithi": "Shukla Dwadashi",
+          "paksha": "Shukla",
+          "nakshatra": "Hasta"
+        },
+        {
+          "date": "2027-05-21",
+          "weekday": "Friday",
+          "tithi": "Krishna Pratipada",
+          "paksha": "Krishna",
+          "nakshatra": "Anuradha"
+        },
+        {
+          "date": "2027-06-21",
+          "weekday": "Monday",
+          "tithi": "Krishna Dwitiya",
+          "paksha": "Krishna",
+          "nakshatra": "Uttara Ashadha"
+        },
+        {
+          "date": "2027-11-12",
+          "weekday": "Friday",
+          "tithi": "Shukla Trayodashi",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        },
+        {
+          "date": "2027-11-19",
+          "weekday": "Friday",
+          "tithi": "Krishna Shashthi",
+          "paksha": "Krishna",
+          "nakshatra": "Pushya"
+        },
+        {
+          "date": "2027-11-24",
+          "weekday": "Wednesday",
+          "tithi": "Krishna Ekadashi",
+          "paksha": "Krishna",
+          "nakshatra": "Hasta"
+        },
+        {
+          "date": "2027-12-09",
+          "weekday": "Thursday",
+          "tithi": "Shukla Ekadashi",
+          "paksha": "Shukla",
+          "nakshatra": "Revati"
+        }
+      ],
+      "tiers": {
+        "nakshatraOnly": 117,
+        "plusSeasons": 59,
+        "plusTithiYogaKarana": 25,
+        "strict": 16
+      },
+      "excludedSeasons": [
+        {
+          "code": "kharmas",
+          "from": "2026-12-16",
+          "to": "2027-01-14",
+          "why": "Sun in sidereal Dhanu (Sagittarius). Kharmas: no griha pravesh, marriage or other samskara."
+        },
+        {
+          "code": "malmas",
+          "from": "2027-03-15",
+          "to": "2027-04-14",
+          "why": "Sun in sidereal Meena (Pisces). Malmas / Meen Kharmas: treated like Kharmas for griha pravesh."
+        },
+        {
+          "code": "shukra_asta",
+          "from": "2027-07-04",
+          "to": "2027-09-20",
+          "why": "Shukra asta: Venus combust (engine orb), plus 3 vriddha days before and 3 bala days after."
+        },
+        {
+          "code": "chaturmas",
+          "from": "2027-07-13",
+          "to": "2027-11-09",
+          "why": "Chaturmas, Devshayani (Ashadha Shukla Ekadashi) to Prabodhini (Kartika Shukla Ekadashi): Vishnu sleeps, no griha pravesh."
+        },
+        {
+          "code": "guru_asta",
+          "from": "2027-08-14",
+          "to": "2027-09-17",
+          "why": "Guru asta: Jupiter combust (engine orb), plus 3 vriddha days before and 3 bala days after."
+        },
+        {
+          "code": "kharmas",
+          "from": "2027-12-16",
+          "to": "2028-01-14",
+          "why": "Sun in sidereal Dhanu (Sagittarius). Kharmas: no griha pravesh, marriage or other samskara."
+        }
+      ],
+      "chaturmasEkadashis": {
+        "devshayani": {
+          "date": "2027-07-14",
+          "kshaya": false,
+          "lunarMonth": "Ashadha"
+        },
+        "prabodhini": {
+          "date": "2027-11-10",
+          "kshaya": false,
+          "lunarMonth": "Kartik"
+        }
+      }
+    }
+  },
+  "ingresses": [
+    {
+      "planet": "jupiter",
+      "from": "Simha (Leo)",
+      "to": "Karka (Cancer)",
+      "fromSign": 5,
+      "toSign": 4,
+      "retrograde": true,
+      "instant": {
+        "istDate": "2027-01-25",
+        "istTime": "01:31",
+        "utc": "2027-01-24T20:01Z"
+      }
+    },
+    {
+      "planet": "saturn",
+      "from": "Meena (Pisces)",
+      "to": "Mesha (Aries)",
+      "fromSign": 12,
+      "toSign": 1,
+      "retrograde": false,
+      "instant": {
+        "istDate": "2027-06-03",
+        "istTime": "05:28",
+        "utc": "2027-06-02T23:58Z"
+      }
+    },
+    {
+      "planet": "jupiter",
+      "from": "Karka (Cancer)",
+      "to": "Simha (Leo)",
+      "fromSign": 4,
+      "toSign": 5,
+      "retrograde": false,
+      "instant": {
+        "istDate": "2027-06-26",
+        "istTime": "05:19",
+        "utc": "2027-06-25T23:49Z"
+      }
+    },
+    {
+      "planet": "saturn",
+      "from": "Mesha (Aries)",
+      "to": "Meena (Pisces)",
+      "fromSign": 1,
+      "toSign": 12,
+      "retrograde": true,
+      "instant": {
+        "istDate": "2027-10-20",
+        "istTime": "07:12",
+        "utc": "2027-10-20T01:42Z"
+      }
+    },
+    {
+      "planet": "jupiter",
+      "from": "Simha (Leo)",
+      "to": "Kanya (Virgo)",
+      "fromSign": 5,
+      "toSign": 6,
+      "retrograde": false,
+      "instant": {
+        "istDate": "2027-11-26",
+        "istTime": "18:45",
+        "utc": "2027-11-26T13:15Z"
+      }
+    }
+  ],
+  "stations": [
+    {
+      "planet": "jupiter",
+      "kind": "direct",
+      "sign": "Karka (Cancer)",
+      "degreeInSign": 22.75,
+      "instant": {
+        "istDate": "2027-04-13",
+        "istTime": "08:13",
+        "utc": "2027-04-13T02:43Z"
+      }
+    },
+    {
+      "planet": "saturn",
+      "kind": "retrograde",
+      "sign": "Mesha (Aries)",
+      "degreeInSign": 3.63,
+      "instant": {
+        "istDate": "2027-08-09",
+        "istTime": "22:54",
+        "utc": "2027-08-09T17:24Z"
+      }
+    },
+    {
+      "planet": "saturn",
+      "kind": "direct",
+      "sign": "Meena (Pisces)",
+      "degreeInSign": 26.77,
+      "instant": {
+        "istDate": "2027-12-24",
+        "istTime": "09:04",
+        "utc": "2027-12-24T03:34Z"
+      }
+    }
+  ],
+  "signs": {
+    "startOfYear": [
+      {
+        "planet": "jupiter",
+        "atIst": "2027-01-01T00:00+05:30",
+        "sign": "Simha (Leo)",
+        "degreeInSign": 2.22,
+        "retrograde": true
+      },
+      {
+        "planet": "saturn",
+        "atIst": "2027-01-01T00:00+05:30",
+        "sign": "Meena (Pisces)",
+        "degreeInSign": 14.09,
+        "retrograde": false
+      },
+      {
+        "planet": "rahu",
+        "atIst": "2027-01-01T00:00+05:30",
+        "sign": "Makara (Capricorn)",
+        "degreeInSign": 28.62,
+        "retrograde": true
+      },
+      {
+        "planet": "ketu",
+        "atIst": "2027-01-01T00:00+05:30",
+        "sign": "Karka (Cancer)",
+        "degreeInSign": 28.62,
+        "retrograde": true
+      }
+    ],
+    "endOfYear": [
+      {
+        "planet": "jupiter",
+        "atIst": "2027-12-31T23:59+05:30",
+        "sign": "Kanya (Virgo)",
+        "degreeInSign": 3.05,
+        "retrograde": false
+      },
+      {
+        "planet": "saturn",
+        "atIst": "2027-12-31T23:59+05:30",
+        "sign": "Meena (Pisces)",
+        "degreeInSign": 26.82,
+        "retrograde": false
+      },
+      {
+        "planet": "rahu",
+        "atIst": "2027-12-31T23:59+05:30",
+        "sign": "Makara (Capricorn)",
+        "degreeInSign": 9.28,
+        "retrograde": true
+      },
+      {
+        "planet": "ketu",
+        "atIst": "2027-12-31T23:59+05:30",
+        "sign": "Karka (Cancer)",
+        "degreeInSign": 9.28,
+        "retrograde": true
+      }
+    ],
+    "previousIngress": [
+      {
+        "planet": "jupiter",
+        "from": "Karka (Cancer)",
+        "to": "Simha (Leo)",
+        "fromSign": 4,
+        "toSign": 5,
+        "retrograde": false,
+        "instant": {
+          "istDate": "2026-10-31",
+          "istTime": "12:03",
+          "utc": "2026-10-31T06:33Z"
+        }
+      },
+      {
+        "planet": "saturn",
+        "from": "Kumbha (Aquarius)",
+        "to": "Meena (Pisces)",
+        "fromSign": 11,
+        "toSign": 12,
+        "retrograde": false,
+        "instant": {
+          "istDate": "2025-03-29",
+          "istTime": "21:45",
+          "utc": "2025-03-29T16:15Z"
+        }
+      },
+      {
+        "planet": "rahu",
+        "from": "Kumbha (Aquarius)",
+        "to": "Makara (Capricorn)",
+        "fromSign": 11,
+        "toSign": 10,
+        "retrograde": true,
+        "instant": {
+          "istDate": "2026-12-05",
+          "istTime": "22:32",
+          "utc": "2026-12-05T17:02Z"
+        }
+      },
+      {
+        "planet": "ketu",
+        "from": "Simha (Leo)",
+        "to": "Karka (Cancer)",
+        "fromSign": 5,
+        "toSign": 4,
+        "retrograde": true,
+        "instant": {
+          "istDate": "2026-12-05",
+          "istTime": "22:32",
+          "utc": "2026-12-05T17:02Z"
+        }
+      }
+    ],
+    "nextIngress": [
+      {
+        "planet": "jupiter",
+        "from": "Kanya (Virgo)",
+        "to": "Simha (Leo)",
+        "fromSign": 6,
+        "toSign": 5,
+        "retrograde": true,
+        "instant": {
+          "istDate": "2028-02-28",
+          "istTime": "19:17",
+          "utc": "2028-02-28T13:47Z"
+        }
+      },
+      {
+        "planet": "saturn",
+        "from": "Meena (Pisces)",
+        "to": "Mesha (Aries)",
+        "fromSign": 12,
+        "toSign": 1,
+        "retrograde": false,
+        "instant": {
+          "istDate": "2028-02-23",
+          "istTime": "19:24",
+          "utc": "2028-02-23T13:54Z"
+        }
+      },
+      {
+        "planet": "rahu",
+        "from": "Makara (Capricorn)",
+        "to": "Dhanu (Sagittarius)",
+        "fromSign": 10,
+        "toSign": 9,
+        "retrograde": true,
+        "instant": {
+          "istDate": "2028-06-24",
+          "istTime": "01:30",
+          "utc": "2028-06-23T20:00Z"
+        }
+      },
+      {
+        "planet": "ketu",
+        "from": "Karka (Cancer)",
+        "to": "Mithuna (Gemini)",
+        "fromSign": 4,
+        "toSign": 3,
+        "retrograde": true,
+        "instant": {
+          "istDate": "2028-06-24",
+          "istTime": "01:30",
+          "utc": "2028-06-23T20:00Z"
+        }
+      }
+    ]
+  },
+  "kharmas": {
+    "note": "Each instant is ONE astronomical moment (the Sun crossing the sidereal Lahiri sign boundary), shown in IST. It is the same moment in every city; it is not a local time. Which civil days a panchang then marks as Kharmas depends on its sunrise rule (see griha_pravesh.excludedSeasons for the engine's day-level dates).",
+    "kharmas_2026_27": {
+      "sunEntersDhanu": {
+        "istDate": "2026-12-16",
+        "istTime": "10:25",
+        "utc": "2026-12-16T04:55Z"
+      },
+      "sunEntersMakara": {
+        "istDate": "2027-01-14",
+        "istTime": "21:10",
+        "utc": "2027-01-14T15:40Z"
+      }
+    },
+    "malmas_2027": {
+      "sunEntersMeena": {
+        "istDate": "2027-03-15",
+        "istTime": "07:00",
+        "utc": "2027-03-15T01:30Z"
+      },
+      "sunEntersMesha": {
+        "istDate": "2027-04-14",
+        "istTime": "15:28",
+        "utc": "2027-04-14T09:58Z"
+      }
+    },
+    "kharmas_2027_28": {
+      "sunEntersDhanu": {
+        "istDate": "2027-12-16",
+        "istTime": "16:39",
+        "utc": "2027-12-16T11:09Z"
+      },
+      "sunEntersMakara": {
+        "istDate": "2028-01-15",
+        "istTime": "03:24",
+        "utc": "2028-01-14T21:54Z"
+      }
+    },
+    "allSankrantis": [
+      {
+        "sign": "Dhanu (Sagittarius)",
+        "signNumber": 9,
+        "instant": {
+          "istDate": "2026-12-16",
+          "istTime": "10:25",
+          "utc": "2026-12-16T04:55Z"
+        }
+      },
+      {
+        "sign": "Makara (Capricorn)",
+        "signNumber": 10,
+        "instant": {
+          "istDate": "2027-01-14",
+          "istTime": "21:10",
+          "utc": "2027-01-14T15:40Z"
+        }
+      },
+      {
+        "sign": "Kumbha (Aquarius)",
+        "signNumber": 11,
+        "instant": {
+          "istDate": "2027-02-13",
+          "istTime": "10:09",
+          "utc": "2027-02-13T04:39Z"
+        }
+      },
+      {
+        "sign": "Meena (Pisces)",
+        "signNumber": 12,
+        "instant": {
+          "istDate": "2027-03-15",
+          "istTime": "07:00",
+          "utc": "2027-03-15T01:30Z"
+        }
+      },
+      {
+        "sign": "Mesha (Aries)",
+        "signNumber": 1,
+        "instant": {
+          "istDate": "2027-04-14",
+          "istTime": "15:28",
+          "utc": "2027-04-14T09:58Z"
+        }
+      },
+      {
+        "sign": "Vrishabha (Taurus)",
+        "signNumber": 2,
+        "instant": {
+          "istDate": "2027-05-15",
+          "istTime": "12:20",
+          "utc": "2027-05-15T06:50Z"
+        }
+      },
+      {
+        "sign": "Mithuna (Gemini)",
+        "signNumber": 3,
+        "instant": {
+          "istDate": "2027-06-15",
+          "istTime": "18:56",
+          "utc": "2027-06-15T13:26Z"
+        }
+      },
+      {
+        "sign": "Karka (Cancer)",
+        "signNumber": 4,
+        "instant": {
+          "istDate": "2027-07-17",
+          "istTime": "05:49",
+          "utc": "2027-07-17T00:19Z"
+        }
+      },
+      {
+        "sign": "Simha (Leo)",
+        "signNumber": 5,
+        "instant": {
+          "istDate": "2027-08-17",
+          "istTime": "14:14",
+          "utc": "2027-08-17T08:44Z"
+        }
+      },
+      {
+        "sign": "Kanya (Virgo)",
+        "signNumber": 6,
+        "instant": {
+          "istDate": "2027-09-17",
+          "istTime": "14:11",
+          "utc": "2027-09-17T08:41Z"
+        }
+      },
+      {
+        "sign": "Tula (Libra)",
+        "signNumber": 7,
+        "instant": {
+          "istDate": "2027-10-18",
+          "istTime": "02:09",
+          "utc": "2027-10-17T20:39Z"
+        }
+      },
+      {
+        "sign": "Vrischika (Scorpio)",
+        "signNumber": 8,
+        "instant": {
+          "istDate": "2027-11-17",
+          "istTime": "01:59",
+          "utc": "2027-11-16T20:29Z"
+        }
+      },
+      {
+        "sign": "Dhanu (Sagittarius)",
+        "signNumber": 9,
+        "instant": {
+          "istDate": "2027-12-16",
+          "istTime": "16:39",
+          "utc": "2027-12-16T11:09Z"
+        }
+      },
+      {
+        "sign": "Makara (Capricorn)",
+        "signNumber": 10,
+        "instant": {
+          "istDate": "2028-01-15",
+          "istTime": "03:24",
+          "utc": "2028-01-14T21:54Z"
+        }
+      }
+    ]
+  }
+}

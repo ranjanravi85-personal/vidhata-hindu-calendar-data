@@ -1,0 +1,81 @@
+city_slug,city_name,latitude,longitude,timezone,month,wedding_day_count
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2026-11,2
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2026-12,3
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-01,4
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-02,1
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-03,3
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-04,2
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-05,3
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-06,1
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2026-11,2
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2026-12,3
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-01,4
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-02,1
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-03,3
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-04,2
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-05,3
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-06,1
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2026-11,2
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2026-12,3
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-01,3
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-02,1
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-03,3
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-04,2
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-05,3
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-06,0
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2026-11,2
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2026-12,3
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-01,4
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-02,1
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-03,3
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-04,2
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-05,3
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-06,1
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2026-11,2
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2026-12,3
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-01,4
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-02,1
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-03,3
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-04,2
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-05,3
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-06,1
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2026-11,2
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2026-12,3
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-01,4
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-02,1
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-03,3
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-04,2
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-05,3
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-06,1
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2026-11,2
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2026-12,3
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-01,4
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-02,1
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-03,3
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-04,2
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-05,3
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-06,1
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2026-11,2
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2026-12,3
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-01,4
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-02,1
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-03,3
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-04,2
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-05,3
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-06,1
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2026-11,2
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2026-12,3
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-01,4
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-02,1
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-03,3
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-04,2
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-05,3
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-06,1
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2026-11,2
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2026-12,3
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-01,4
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-02,1
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-03,3
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-04,2
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-05,3
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-06,1

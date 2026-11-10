@@ -1,0 +1,194 @@
+{
+ "total": 13,
+ "ref": {
+  "place": "Ujjain (Ujjayini / Avanti)",
+  "latitude": 23.1765,
+  "longitude": 75.7885
+ },
+ "byMonth": [
+  {
+   "month": 1,
+   "name": "January",
+   "count": 0,
+   "note": "No date. Dhanurmas kharmas holds to Jan 14, and Venus is combust for the rest of the month."
+  },
+  {
+   "month": 2,
+   "name": "February",
+   "count": 3,
+   "note": "Opens once Venus has risen. Our stricter combustion orb would also drop 6 and 20 Feb; the mainstream almanac keeps them, and so do we."
+  },
+  {
+   "month": 3,
+   "name": "March",
+   "count": 1,
+   "note": "Second half lost to Meenmas kharmas (Sun enters Pisces on Mar 15)."
+  },
+  {
+   "month": 4,
+   "name": "April",
+   "count": 3,
+   "note": "First fortnight still under Meenmas; season reopens after Apr 14."
+  },
+  {
+   "month": 5,
+   "name": "May",
+   "count": 0,
+   "note": "No date. Adhik Jyeshtha maas opens May 17; the earlier days carry no clean vivaha nakshatra."
+  },
+  {
+   "month": 6,
+   "name": "June",
+   "count": 1,
+   "note": "Adhik maas runs to Jun 15; the lone date sits in the nija Jyeshtha that follows."
+  },
+  {
+   "month": 7,
+   "name": "July",
+   "count": 0,
+   "note": "No date. Jupiter is combust from Jul 14 (avoided from Jul 12), and Chaturmas begins at Devshayani Ekadashi on Jul 25."
+  },
+  {
+   "month": 8,
+   "name": "August",
+   "count": 0,
+   "note": "Entirely inside Chaturmas. No wedding date."
+  },
+  {
+   "month": 9,
+   "name": "September",
+   "count": 0,
+   "note": "Entirely inside Chaturmas. No wedding date."
+  },
+  {
+   "month": 10,
+   "name": "October",
+   "count": 0,
+   "note": "Entirely inside Chaturmas. No wedding date."
+  },
+  {
+   "month": 11,
+   "name": "November",
+   "count": 2,
+   "note": "Chaturmas lifts at Prabodhini Ekadashi (Nov 20); the season reopens on Nov 21."
+  },
+  {
+   "month": 12,
+   "name": "December",
+   "count": 3,
+   "note": "Season closes again when Dhanurmas kharmas begins on Dec 16."
+  }
+ ],
+ "dates": [
+  {
+   "date": "2026-02-06",
+   "display": "6 Feb",
+   "weekday": "Friday",
+   "nakshatra": "Hasta"
+  },
+  {
+   "date": "2026-02-20",
+   "display": "20 Feb",
+   "weekday": "Friday",
+   "nakshatra": "Uttara Bhadrapada"
+  },
+  {
+   "date": "2026-02-26",
+   "display": "26 Feb",
+   "weekday": "Thursday",
+   "nakshatra": "Mrigashira"
+  },
+  {
+   "date": "2026-03-08",
+   "display": "8 Mar",
+   "weekday": "Sunday",
+   "nakshatra": "Swati"
+  },
+  {
+   "date": "2026-04-20",
+   "display": "20 Apr",
+   "weekday": "Monday",
+   "nakshatra": "Rohini"
+  },
+  {
+   "date": "2026-04-26",
+   "display": "26 Apr",
+   "weekday": "Sunday",
+   "nakshatra": "Magha"
+  },
+  {
+   "date": "2026-04-29",
+   "display": "29 Apr",
+   "weekday": "Wednesday",
+   "nakshatra": "Hasta"
+  },
+  {
+   "date": "2026-06-25",
+   "display": "25 Jun",
+   "weekday": "Thursday",
+   "nakshatra": "Swati"
+  },
+  {
+   "date": "2026-11-25",
+   "display": "25 Nov",
+   "weekday": "Wednesday",
+   "nakshatra": "Rohini"
+  },
+  {
+   "date": "2026-11-26",
+   "display": "26 Nov",
+   "weekday": "Thursday",
+   "nakshatra": "Mrigashira"
+  },
+  {
+   "date": "2026-12-03",
+   "display": "3 Dec",
+   "weekday": "Thursday",
+   "nakshatra": "Uttara Phalguni"
+  },
+  {
+   "date": "2026-12-04",
+   "display": "4 Dec",
+   "weekday": "Friday",
+   "nakshatra": "Hasta"
+  },
+  {
+   "date": "2026-12-06",
+   "display": "6 Dec",
+   "weekday": "Sunday",
+   "nakshatra": "Swati"
+  }
+ ],
+ "prohibited": [
+  {
+   "name": "Chaturmas",
+   "range": "Jul 25 to Nov 20, 2026",
+   "reason": "From Devshayani Ekadashi to Prabodhini Ekadashi, Vishnu is held to be asleep and no marriage is solemnised. This is the single longest wedding pause of the year and it empties August, September and October completely."
+  },
+  {
+   "name": "Adhik Jyeshtha maas",
+   "range": "May 17 to Jun 15, 2026",
+   "reason": "An intercalary (leap) lunar month, Purushottam maas. No marriage is fixed inside it. 2026 carries an adhik Jyeshtha, which is why the summer season resumes only in the nija Jyeshtha that follows."
+  },
+  {
+   "name": "Dhanurmas kharmas",
+   "range": "Dec 16, 2025 to Jan 14, 2026, and again Dec 16 to Dec 31, 2026",
+   "reason": "While the Sun transits Sagittarius (Dhanu), the solar month of kharmas or malmas suspends weddings. It closes the first fortnight of January and reopens at the end of 2026."
+  },
+  {
+   "name": "Meenmas kharmas",
+   "range": "Mar 15 to Apr 14, 2026",
+   "reason": "The second kharmas of the year, while the Sun transits Pisces (Meen). It removes the back half of March and the first fortnight of April."
+  },
+  {
+   "name": "Shukra asta (Venus combust)",
+   "range": "Early Dec 2025 into the first days of Feb 2026, and Oct 19 to Oct 29, 2026",
+   "reason": "Venus is the significator of marriage, and no wedding is fixed while it is set in the Sun's glare or in the three days either side. The winter setting is what empties the second half of January after kharmas ends. The October setting falls inside Chaturmas, so it removes no extra date."
+  },
+  {
+   "name": "Guru asta (Jupiter combust)",
+   "range": "Jul 14 to Aug 13, 2026",
+   "reason": "Jupiter is the other planet a vivaha needs strong. With the three days before it sets also avoided, the bar starts on Jul 12, which is why July returns no date even though Chaturmas begins only on Jul 25."
+  }
+ ]
+}

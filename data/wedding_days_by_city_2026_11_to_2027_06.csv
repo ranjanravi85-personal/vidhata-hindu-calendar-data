@@ -1,0 +1,189 @@
+city_slug,city_name,latitude,longitude,timezone,date,weekday,tithi,paksha,nakshatra,read_at
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+mumbai,Mumbai,19.076,72.8777,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+chennai,Chennai,13.0827,80.2707,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+bengaluru,Bengaluru,12.9716,77.5946,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+hyderabad,Hyderabad,17.385,78.4867,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+pune,Pune,18.5204,73.8567,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+ahmedabad,Ahmedabad,23.0225,72.5714,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+jaipur,Jaipur,26.9124,75.7873,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2026-11-25,Wednesday,Krishna Pratipada,Krishna,Rohini,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2026-11-26,Thursday,Krishna Dwitiya,Krishna,Mrigashira,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2026-12-03,Thursday,Krishna Dashami,Krishna,Uttara Phalguni,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2026-12-04,Friday,Krishna Ekadashi,Krishna,Hasta,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2026-12-06,Sunday,Krishna Trayodashi,Krishna,Swati,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-01-15,Friday,Shukla Saptami,Shukla,Revati,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-01-20,Wednesday,Shukla Trayodashi,Shukla,Mrigashira,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-01-24,Sunday,Krishna Dwitiya,Krishna,Magha,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-01-31,Sunday,Krishna Dashami,Krishna,Anuradha,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-02-11,Thursday,Shukla Panchami,Shukla,Revati,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-03-04,Thursday,Krishna Ekadashi,Krishna,Uttara Ashadha,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-03-10,Wednesday,Shukla Dwitiya,Shukla,Uttara Bhadrapada,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-03-11,Thursday,Shukla Tritiya,Shukla,Revati,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-04-26,Monday,Krishna Panchami,Krishna,Mula,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-04-28,Wednesday,Krishna Saptami,Krishna,Uttara Ashadha,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-05-09,Sunday,Shukla Tritiya,Shukla,Mrigashira,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-05-21,Friday,Krishna Pratipada,Krishna,Anuradha,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-05-23,Sunday,Krishna Tritiya,Krishna,Mula,local sunrise
+lucknow,Lucknow,26.8467,80.9462,Asia/Kolkata,2027-06-21,Monday,Krishna Dwitiya,Krishna,Uttara Ashadha,local sunrise

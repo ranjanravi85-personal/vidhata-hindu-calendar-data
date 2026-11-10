@@ -1,0 +1,1020 @@
+{
+ "festivals": {
+  "2026": [
+   {
+    "slug": "lohri",
+    "name": "Lohri",
+    "iso": "2026-01-13",
+    "significance": "The Punjab bonfire night before Makar Sankranti. Sesame, jaggery and popcorn go into the fire and the winter harvest is thanked."
+   },
+   {
+    "slug": "makar-sankranti",
+    "name": "Makar Sankranti",
+    "iso": "2026-01-14",
+    "significance": "The Sun turns north into Capricorn. The first sankranti of the calendar year, marked with a til-gud exchange and a dip in the river at dawn.",
+    "regionalVariants": "Pongal (Tamil Nadu), Magh Bihu (Assam), Uttarayan (Gujarat), Khichdi (UP and Bihar)"
+   },
+   {
+    "slug": "vasant-panchami",
+    "name": "Vasant Panchami (Saraswati Puja)",
+    "iso": "2026-01-23",
+    "significance": "Saraswati is worshipped at the onset of spring. Books and instruments are placed before her, and a child is often given its first letters today."
+   },
+   {
+    "slug": "maha-shivratri",
+    "name": "Maha Shivaratri",
+    "iso": "2026-02-15",
+    "significance": "The great night of Shiva. Devotees keep the vigil through the four watches, offering bilva leaves and water on the lingam until dawn."
+   },
+   {
+    "slug": "holika-dahan",
+    "name": "Holika Dahan",
+    "iso": "2026-03-03",
+    "significance": "The bonfire on the Phalguna full moon that burns the old year. Prahlada walked out of the fire and Holika did not; the pyre is lit after sunset."
+   },
+   {
+    "slug": "holi",
+    "name": "Holi (Dhulandi)",
+    "iso": "2026-03-04",
+    "significance": "The day of colour, the morning after Holika Dahan. Elders are touched at the feet before colour is thrown on friends."
+   },
+   {
+    "slug": "ugadi-gudi-padwa",
+    "name": "Ugadi / Gudi Padwa",
+    "iso": "2026-03-19",
+    "significance": "The lunar new year in the Deccan and the west. A gudi is raised at the doorway in Maharashtra; the bevu-bella of neem and jaggery is eaten in the south.",
+    "regionalVariants": "Gudi Padwa (Maharashtra), Ugadi (Andhra, Telangana, Karnataka)"
+   },
+   {
+    "slug": "ram-navami",
+    "name": "Ram Navami",
+    "iso": "2026-03-27",
+    "significance": "Rama was born at noon on the Chaitra ninth. The Ramayana is read and the cradle is rocked at midday."
+   },
+   {
+    "slug": "mahavir-jayanti",
+    "name": "Mahavir Jayanti",
+    "iso": "2026-03-31",
+    "significance": "The birth of Mahavira, the last Tirthankara. Jain temples hold the abhishekam of the idol and the day turns on non-violence and restraint."
+   },
+   {
+    "slug": "hanuman-jayanti",
+    "name": "Hanuman Jayanti",
+    "iso": "2026-04-02",
+    "significance": "Hanuman was born on the Chaitra full moon. The Sundarakanda and the Hanuman Chalisa are read; sindoor and a garland go on the idol."
+   },
+   {
+    "slug": "baisakhi",
+    "name": "Baisakhi (Vaisakhi)",
+    "iso": "2026-04-14",
+    "significance": "The solar new year at Mesha sankranti and the Punjab harvest. The Khalsa was founded on this day, so the gurudwara stays open from dawn.",
+    "regionalVariants": "Puthandu (Tamil Nadu), Pana Sankranti (Odisha), Pohela Boishakh (Bengal, Apr 15)"
+   },
+   {
+    "slug": "vishu",
+    "name": "Vishu",
+    "iso": "2026-04-15",
+    "significance": "Kerala's new year at the solar turn. The Vishukkani is arranged the night before so gold, grain and the image of Krishna are the first sight on waking."
+   },
+   {
+    "slug": "akshaya-tritiya",
+    "name": "Akshaya Tritiya",
+    "iso": "2026-04-20",
+    "significance": "What begins today does not diminish. One of the four abhijit-style days when every hour is auspicious; gold and grain bought now are said to multiply."
+   },
+   {
+    "slug": "buddha-purnima",
+    "name": "Buddha Purnima",
+    "iso": "2026-05-01",
+    "significance": "The Vaishakha full moon on which the Buddha was born, reached enlightenment and passed away. Bodhi trees are watered and lamps are lit at the vihara."
+   },
+   {
+    "slug": "ganga-dussehra",
+    "name": "Ganga Dussehra",
+    "iso": "2026-06-24",
+    "significance": "The day Ganga came down to earth. A dip in any river at first light carries the intent of a bath at Haridwar."
+   },
+   {
+    "slug": "nirjala-ekadashi",
+    "name": "Nirjala Ekadashi",
+    "iso": "2026-06-25",
+    "significance": "The one Ekadashi kept without a drop of water from sunrise to sunrise. Bhima kept only this one; a pot of water given away today carries the year's vrat."
+   },
+   {
+    "slug": "rath-yatra",
+    "name": "Rath Yatra (Puri)",
+    "iso": "2026-07-16",
+    "significance": "Jagannath leaves the Puri temple on the great chariot with Balabhadra and Subhadra. Odisha empties into the streets to pull the ropes."
+   },
+   {
+    "slug": "guru-purnima",
+    "name": "Guru Purnima",
+    "iso": "2026-07-29",
+    "significance": "Vyasa's day, when the teacher is honoured. Bow to the one whose words still shape your decisions; if the teacher is gone, light a lamp before their photograph."
+   },
+   {
+    "slug": "naga-panchami",
+    "name": "Naga Panchami",
+    "iso": "2026-08-17",
+    "significance": "The serpent gods are offered milk on the Shravana fifth. A day of protection from snakebite and of the old bond between the household and the naga."
+   },
+   {
+    "slug": "onam",
+    "name": "Onam (Thiruvonam)",
+    "iso": "2026-08-26",
+    "significance": "Kerala's harvest festival, the day King Mahabali returns to his people. The pookalam is laid and the sadya is served on a banana leaf."
+   },
+   {
+    "slug": "raksha-bandhan",
+    "name": "Raksha Bandhan",
+    "iso": "2026-08-28",
+    "significance": "The sister ties a thread on the brother's wrist and the brother promises protection for the year. Old bond, simple gesture, no substitute."
+   },
+   {
+    "slug": "janmashtami",
+    "name": "Krishna Janmashtami",
+    "iso": "2026-09-04",
+    "significance": "Krishna was born at midnight on the eighth of Bhadrapada's dark fortnight. The fast is broken after the moon rises and the midnight abhishekam is done."
+   },
+   {
+    "slug": "hartalika-teej",
+    "name": "Hartalika Teej",
+    "iso": "2026-09-13",
+    "significance": "Parvati's vrat to win Shiva, kept by married women without food or water. A sand lingam is made and the night is spent in worship."
+   },
+   {
+    "slug": "ganesh-chaturthi",
+    "name": "Ganesh Chaturthi",
+    "iso": "2026-09-14",
+    "significance": "Ganesha arrives in the home. The murti is installed with modak and durva grass, and stays until the visarjan."
+   },
+   {
+    "slug": "vishwakarma-puja",
+    "name": "Vishwakarma Puja",
+    "iso": "2026-09-17",
+    "significance": "The divine architect is worshipped at Kanya sankranti. Workshops and craftsmen clean and garland their tools, and no work is done on them until the puja is over."
+   },
+   {
+    "slug": "anant-chaturdashi",
+    "name": "Anant Chaturdashi",
+    "iso": "2026-09-25",
+    "significance": "The Vishnu vrat that also closes the ten-day Ganesha festival with the visarjan. A fourteen-knot thread is tied on the right wrist and endurance is asked of Ananta."
+   },
+   {
+    "slug": "navratri-day1",
+    "name": "Sharad Navaratri (Day 1)",
+    "iso": "2026-10-11",
+    "significance": "The nine nights of Durga begin. The ghat is installed and the akhand jyoti is lit; the vrat runs to Vijayadashami."
+   },
+   {
+    "slug": "dussehra",
+    "name": "Dussehra (Vijayadashami)",
+    "iso": "2026-10-20",
+    "significance": "Rama killed Ravana and Durga killed Mahishasura on the same day. Work begun on Vijayadashami is said to carry the victory of both."
+   },
+   {
+    "slug": "karva-chauth",
+    "name": "Karva Chauth",
+    "iso": "2026-10-29",
+    "significance": "Married women fast without water from sunrise until they see the moon at night, then look at the husband through a sieve."
+   },
+   {
+    "slug": "dhanteras",
+    "name": "Dhanteras",
+    "iso": "2026-11-06",
+    "significance": "Dhanvantari rose from the ocean with the pot of amrita. A small metal vessel and a few coins are bought; what enters the home now is said to stay."
+   },
+   {
+    "slug": "naraka-chaturdashi",
+    "name": "Naraka Chaturdashi (Choti Diwali)",
+    "iso": "2026-11-08",
+    "significance": "Krishna killed Narakasura before dawn. An oil bath is taken at sunrise and a single diya is lit at the doorway before nightfall."
+   },
+   {
+    "slug": "diwali",
+    "name": "Diwali (Deepavali)",
+    "iso": "2026-11-08",
+    "significance": "The festival of lights and the Lakshmi puja. Lakshmi visits homes that are clean, lit and welcoming; the puja is done in the pradosh window after sunset."
+   },
+   {
+    "slug": "govardhan-puja",
+    "name": "Govardhan Puja (Annakut)",
+    "iso": "2026-11-10",
+    "significance": "Krishna lifted the Govardhan hill to shelter Vrindavan. The annakut is made, a small mountain of cooked food offered and then shared with the whole house."
+   },
+   {
+    "slug": "bhai-dooj",
+    "name": "Bhai Dooj",
+    "iso": "2026-11-11",
+    "significance": "Yamuna fed her brother Yama. The sister applies tilak on the brother's forehead and the meal she serves is remembered through the year."
+   },
+   {
+    "slug": "chhath-puja",
+    "name": "Chhath Puja",
+    "iso": "2026-11-15",
+    "significance": "The four-day Surya vrat of the Bhojpuri belt, peaking with the sunset and sunrise arghya to the Sun standing in the river. One of the hardest vrats kept."
+   },
+   {
+    "slug": "tulsi-vivah",
+    "name": "Tulsi Vivah",
+    "iso": "2026-11-21",
+    "significance": "The ceremonial marriage of the tulsi plant to Vishnu that opens the wedding season. The courtyard tulsi is dressed as a bride at dusk."
+   },
+   {
+    "slug": "kartik-purnima",
+    "name": "Kartik Purnima",
+    "iso": "2026-11-24",
+    "significance": "The full moon that closes the Kartik vrat month. Varanasi lights the ghats for Dev Deepawali; it is also Guru Nanak Jayanti.",
+    "regionalVariants": "Dev Deepawali (Varanasi), Guru Nanak Jayanti"
+   },
+   {
+    "slug": "gita-jayanti",
+    "name": "Gita Jayanti",
+    "iso": "2026-12-20",
+    "significance": "The day Krishna spoke the Bhagavad Gita to Arjuna on the field of Kurukshetra. A chapter is read and the text is honoured on the home altar."
+   },
+   {
+    "slug": "datta-jayanti",
+    "name": "Dattatreya Jayanti",
+    "iso": "2026-12-23",
+    "significance": "The birth of Dattatreya, the union of Brahma, Vishnu and Shiva. The Margashira full-moon evening is given to his worship and the reading of his charitra."
+   }
+  ],
+  "2027": [
+   {
+    "slug": "lohri",
+    "name": "Lohri",
+    "iso": "2027-01-14",
+    "significance": "The Punjab bonfire night before Makar Sankranti. Sesame, jaggery and popcorn go into the fire and the winter harvest is thanked."
+   },
+   {
+    "slug": "makar-sankranti",
+    "name": "Makar Sankranti",
+    "iso": "2027-01-15",
+    "significance": "The Sun turns north into Capricorn. The first sankranti of the calendar year, marked with a til-gud exchange and a dip in the river at dawn.",
+    "regionalVariants": "Pongal (Tamil Nadu), Magh Bihu (Assam), Uttarayan (Gujarat), Khichdi (UP and Bihar)"
+   },
+   {
+    "slug": "vasant-panchami",
+    "name": "Vasant Panchami (Saraswati Puja)",
+    "iso": "2027-02-11",
+    "significance": "Saraswati is worshipped at the onset of spring. Books and instruments are placed before her, and a child is often given its first letters today."
+   },
+   {
+    "slug": "maha-shivratri",
+    "name": "Maha Shivaratri",
+    "iso": "2027-03-06",
+    "significance": "The great night of Shiva. Devotees keep the vigil through the four watches, offering bilva leaves and water on the lingam until dawn."
+   },
+   {
+    "slug": "holika-dahan",
+    "name": "Holika Dahan",
+    "iso": "2027-03-22",
+    "significance": "The bonfire on the Phalguna full moon that burns the old year. Prahlada walked out of the fire and Holika did not; the pyre is lit after sunset."
+   },
+   {
+    "slug": "holi",
+    "name": "Holi (Dhulandi)",
+    "iso": "2027-03-23",
+    "significance": "The day of colour, the morning after Holika Dahan. Elders are touched at the feet before colour is thrown on friends."
+   },
+   {
+    "slug": "ugadi-gudi-padwa",
+    "name": "Ugadi / Gudi Padwa",
+    "iso": "2027-04-07",
+    "significance": "The lunar new year in the Deccan and the west. A gudi is raised at the doorway in Maharashtra; the bevu-bella of neem and jaggery is eaten in the south.",
+    "regionalVariants": "Gudi Padwa (Maharashtra), Ugadi (Andhra, Telangana, Karnataka)"
+   },
+   {
+    "slug": "ram-navami",
+    "name": "Ram Navami",
+    "iso": "2027-04-15",
+    "significance": "Rama was born at noon on the Chaitra ninth. The Ramayana is read and the cradle is rocked at midday."
+   },
+   {
+    "slug": "mahavir-jayanti",
+    "name": "Mahavir Jayanti",
+    "iso": "2027-04-19",
+    "significance": "The birth of Mahavira, the last Tirthankara. Jain temples hold the abhishekam of the idol and the day turns on non-violence and restraint."
+   },
+   {
+    "slug": "hanuman-jayanti",
+    "name": "Hanuman Jayanti",
+    "iso": "2027-04-20",
+    "significance": "Hanuman was born on the Chaitra full moon. The Sundarakanda and the Hanuman Chalisa are read; sindoor and a garland go on the idol."
+   },
+   {
+    "slug": "baisakhi",
+    "name": "Baisakhi (Vaisakhi)",
+    "iso": "2027-04-14",
+    "significance": "The solar new year at Mesha sankranti and the Punjab harvest. The Khalsa was founded on this day, so the gurudwara stays open from dawn.",
+    "regionalVariants": "Puthandu (Tamil Nadu), Pana Sankranti (Odisha), Pohela Boishakh (Bengal, Apr 15)"
+   },
+   {
+    "slug": "vishu",
+    "name": "Vishu",
+    "iso": "2027-04-15",
+    "significance": "Kerala's new year at the solar turn. The Vishukkani is arranged the night before so gold, grain and the image of Krishna are the first sight on waking."
+   },
+   {
+    "slug": "akshaya-tritiya",
+    "name": "Akshaya Tritiya",
+    "iso": "2027-05-09",
+    "significance": "What begins today does not diminish. One of the four abhijit-style days when every hour is auspicious; gold and grain bought now are said to multiply."
+   },
+   {
+    "slug": "buddha-purnima",
+    "name": "Buddha Purnima",
+    "iso": "2027-05-20",
+    "significance": "The Vaishakha full moon on which the Buddha was born, reached enlightenment and passed away. Bodhi trees are watered and lamps are lit at the vihara."
+   },
+   {
+    "slug": "ganga-dussehra",
+    "name": "Ganga Dussehra",
+    "iso": "2027-06-13",
+    "significance": "The day Ganga came down to earth. A dip in any river at first light carries the intent of a bath at Haridwar."
+   },
+   {
+    "slug": "nirjala-ekadashi",
+    "name": "Nirjala Ekadashi",
+    "iso": "2027-06-14",
+    "significance": "The one Ekadashi kept without a drop of water from sunrise to sunrise. Bhima kept only this one; a pot of water given away today carries the year's vrat."
+   },
+   {
+    "slug": "rath-yatra",
+    "name": "Rath Yatra (Puri)",
+    "iso": "2027-07-05",
+    "significance": "Jagannath leaves the Puri temple on the great chariot with Balabhadra and Subhadra. Odisha empties into the streets to pull the ropes."
+   },
+   {
+    "slug": "guru-purnima",
+    "name": "Guru Purnima",
+    "iso": "2027-07-18",
+    "significance": "Vyasa's day, when the teacher is honoured. Bow to the one whose words still shape your decisions; if the teacher is gone, light a lamp before their photograph."
+   },
+   {
+    "slug": "naga-panchami",
+    "name": "Naga Panchami",
+    "iso": "2027-08-06",
+    "significance": "The serpent gods are offered milk on the Shravana fifth. A day of protection from snakebite and of the old bond between the household and the naga."
+   },
+   {
+    "slug": "onam",
+    "name": "Onam (Thiruvonam)",
+    "iso": "2027-09-12",
+    "significance": "Kerala's harvest festival, the day King Mahabali returns to his people. The pookalam is laid and the sadya is served on a banana leaf."
+   },
+   {
+    "slug": "raksha-bandhan",
+    "name": "Raksha Bandhan",
+    "iso": "2027-08-17",
+    "significance": "The sister ties a thread on the brother's wrist and the brother promises protection for the year. Old bond, simple gesture, no substitute."
+   },
+   {
+    "slug": "janmashtami",
+    "name": "Krishna Janmashtami",
+    "iso": "2027-08-25",
+    "significance": "Krishna was born at midnight on the eighth of Bhadrapada's dark fortnight. The fast is broken after the moon rises and the midnight abhishekam is done."
+   },
+   {
+    "slug": "hartalika-teej",
+    "name": "Hartalika Teej",
+    "iso": "2027-09-03",
+    "significance": "Parvati's vrat to win Shiva, kept by married women without food or water. A sand lingam is made and the night is spent in worship."
+   },
+   {
+    "slug": "ganesh-chaturthi",
+    "name": "Ganesh Chaturthi",
+    "iso": "2027-09-04",
+    "significance": "Ganesha arrives in the home. The murti is installed with modak and durva grass, and stays until the visarjan."
+   },
+   {
+    "slug": "vishwakarma-puja",
+    "name": "Vishwakarma Puja",
+    "iso": "2027-09-17",
+    "significance": "The divine architect is worshipped at Kanya sankranti. Workshops and craftsmen clean and garland their tools, and no work is done on them until the puja is over."
+   },
+   {
+    "slug": "anant-chaturdashi",
+    "name": "Anant Chaturdashi",
+    "iso": "2027-09-14",
+    "significance": "The Vishnu vrat that also closes the ten-day Ganesha festival with the visarjan. A fourteen-knot thread is tied on the right wrist and endurance is asked of Ananta."
+   },
+   {
+    "slug": "navratri-day1",
+    "name": "Sharad Navaratri (Day 1)",
+    "iso": "2027-09-30",
+    "significance": "The nine nights of Durga begin. The ghat is installed and the akhand jyoti is lit; the vrat runs to Vijayadashami."
+   },
+   {
+    "slug": "dussehra",
+    "name": "Dussehra (Vijayadashami)",
+    "iso": "2027-10-09",
+    "significance": "Rama killed Ravana and Durga killed Mahishasura on the same day. Work begun on Vijayadashami is said to carry the victory of both."
+   },
+   {
+    "slug": "karva-chauth",
+    "name": "Karva Chauth",
+    "iso": "2027-10-18",
+    "significance": "Married women fast without water from sunrise until they see the moon at night, then look at the husband through a sieve."
+   },
+   {
+    "slug": "dhanteras",
+    "name": "Dhanteras",
+    "iso": "2027-10-27",
+    "significance": "Dhanvantari rose from the ocean with the pot of amrita. A small metal vessel and a few coins are bought; what enters the home now is said to stay."
+   },
+   {
+    "slug": "naraka-chaturdashi",
+    "name": "Naraka Chaturdashi (Choti Diwali)",
+    "iso": "2027-10-28",
+    "significance": "Krishna killed Narakasura before dawn. An oil bath is taken at sunrise and a single diya is lit at the doorway before nightfall."
+   },
+   {
+    "slug": "diwali",
+    "name": "Diwali (Deepavali)",
+    "iso": "2027-10-29",
+    "significance": "The festival of lights and the Lakshmi puja. Lakshmi visits homes that are clean, lit and welcoming; the puja is done in the pradosh window after sunset."
+   },
+   {
+    "slug": "govardhan-puja",
+    "name": "Govardhan Puja (Annakut)",
+    "iso": "2027-10-30",
+    "significance": "Krishna lifted the Govardhan hill to shelter Vrindavan. The annakut is made, a small mountain of cooked food offered and then shared with the whole house."
+   },
+   {
+    "slug": "bhai-dooj",
+    "name": "Bhai Dooj",
+    "iso": "2027-10-31",
+    "significance": "Yamuna fed her brother Yama. The sister applies tilak on the brother's forehead and the meal she serves is remembered through the year."
+   },
+   {
+    "slug": "chhath-puja",
+    "name": "Chhath Puja",
+    "iso": "2027-11-04",
+    "significance": "The four-day Surya vrat of the Bhojpuri belt, peaking with the sunset and sunrise arghya to the Sun standing in the river. One of the hardest vrats kept."
+   },
+   {
+    "slug": "tulsi-vivah",
+    "name": "Tulsi Vivah",
+    "iso": "2027-11-11",
+    "significance": "The ceremonial marriage of the tulsi plant to Vishnu that opens the wedding season. The courtyard tulsi is dressed as a bride at dusk."
+   },
+   {
+    "slug": "kartik-purnima",
+    "name": "Kartik Purnima",
+    "iso": "2027-11-14",
+    "significance": "The full moon that closes the Kartik vrat month. Varanasi lights the ghats for Dev Deepawali; it is also Guru Nanak Jayanti.",
+    "regionalVariants": "Dev Deepawali (Varanasi), Guru Nanak Jayanti"
+   },
+   {
+    "slug": "gita-jayanti",
+    "name": "Gita Jayanti",
+    "iso": "2027-12-09",
+    "significance": "The day Krishna spoke the Bhagavad Gita to Arjuna on the field of Kurukshetra. A chapter is read and the text is honoured on the home altar."
+   },
+   {
+    "slug": "datta-jayanti",
+    "name": "Dattatreya Jayanti",
+    "iso": "2027-12-13",
+    "significance": "The birth of Dattatreya, the union of Brahma, Vishnu and Shiva. The Margashira full-moon evening is given to his worship and the reading of his charitra."
+   }
+  ],
+  "2028": [
+   {
+    "slug": "lohri",
+    "name": "Lohri",
+    "iso": "2028-01-14",
+    "significance": "The Punjab bonfire night before Makar Sankranti. Sesame, jaggery and popcorn go into the fire and the winter harvest is thanked."
+   },
+   {
+    "slug": "makar-sankranti",
+    "name": "Makar Sankranti",
+    "iso": "2028-01-15",
+    "significance": "The Sun turns north into Capricorn. The first sankranti of the calendar year, marked with a til-gud exchange and a dip in the river at dawn.",
+    "regionalVariants": "Pongal (Tamil Nadu), Magh Bihu (Assam), Uttarayan (Gujarat), Khichdi (UP and Bihar)"
+   },
+   {
+    "slug": "vasant-panchami",
+    "name": "Vasant Panchami (Saraswati Puja)",
+    "iso": "2028-02-01",
+    "significance": "Saraswati is worshipped at the onset of spring. Books and instruments are placed before her, and a child is often given its first letters today."
+   },
+   {
+    "slug": "maha-shivratri",
+    "name": "Maha Shivaratri",
+    "iso": "2028-02-23",
+    "significance": "The great night of Shiva. Devotees keep the vigil through the four watches, offering bilva leaves and water on the lingam until dawn."
+   },
+   {
+    "slug": "holika-dahan",
+    "name": "Holika Dahan",
+    "iso": "2028-03-10",
+    "significance": "The bonfire on the Phalguna full moon that burns the old year. Prahlada walked out of the fire and Holika did not; the pyre is lit after sunset."
+   },
+   {
+    "slug": "holi",
+    "name": "Holi (Dhulandi)",
+    "iso": "2028-03-11",
+    "significance": "The day of colour, the morning after Holika Dahan. Elders are touched at the feet before colour is thrown on friends."
+   },
+   {
+    "slug": "ugadi-gudi-padwa",
+    "name": "Ugadi / Gudi Padwa",
+    "iso": "2028-03-27",
+    "significance": "The lunar new year in the Deccan and the west. A gudi is raised at the doorway in Maharashtra; the bevu-bella of neem and jaggery is eaten in the south.",
+    "regionalVariants": "Gudi Padwa (Maharashtra), Ugadi (Andhra, Telangana, Karnataka)"
+   },
+   {
+    "slug": "ram-navami",
+    "name": "Ram Navami",
+    "iso": "2028-04-04",
+    "significance": "Rama was born at noon on the Chaitra ninth. The Ramayana is read and the cradle is rocked at midday."
+   },
+   {
+    "slug": "mahavir-jayanti",
+    "name": "Mahavir Jayanti",
+    "iso": "2028-04-07",
+    "significance": "The birth of Mahavira, the last Tirthankara. Jain temples hold the abhishekam of the idol and the day turns on non-violence and restraint."
+   },
+   {
+    "slug": "hanuman-jayanti",
+    "name": "Hanuman Jayanti",
+    "iso": "2028-04-09",
+    "significance": "Hanuman was born on the Chaitra full moon. The Sundarakanda and the Hanuman Chalisa are read; sindoor and a garland go on the idol."
+   },
+   {
+    "slug": "baisakhi",
+    "name": "Baisakhi (Vaisakhi)",
+    "iso": "2028-04-14",
+    "significance": "The solar new year at Mesha sankranti and the Punjab harvest. The Khalsa was founded on this day, so the gurudwara stays open from dawn.",
+    "regionalVariants": "Puthandu (Tamil Nadu), Pana Sankranti (Odisha), Pohela Boishakh (Bengal, Apr 15)"
+   },
+   {
+    "slug": "vishu",
+    "name": "Vishu",
+    "iso": "2028-04-14",
+    "significance": "Kerala's new year at the solar turn. The Vishukkani is arranged the night before so gold, grain and the image of Krishna are the first sight on waking."
+   },
+   {
+    "slug": "akshaya-tritiya",
+    "name": "Akshaya Tritiya",
+    "iso": "2028-04-27",
+    "significance": "What begins today does not diminish. One of the four abhijit-style days when every hour is auspicious; gold and grain bought now are said to multiply."
+   },
+   {
+    "slug": "buddha-purnima",
+    "name": "Buddha Purnima",
+    "iso": "2028-05-08",
+    "significance": "The Vaishakha full moon on which the Buddha was born, reached enlightenment and passed away. Bodhi trees are watered and lamps are lit at the vihara."
+   },
+   {
+    "slug": "ganga-dussehra",
+    "name": "Ganga Dussehra",
+    "iso": "2028-06-02",
+    "significance": "The day Ganga came down to earth. A dip in any river at first light carries the intent of a bath at Haridwar."
+   },
+   {
+    "slug": "nirjala-ekadashi",
+    "name": "Nirjala Ekadashi",
+    "iso": "2028-06-03",
+    "significance": "The one Ekadashi kept without a drop of water from sunrise to sunrise. Bhima kept only this one; a pot of water given away today carries the year's vrat."
+   },
+   {
+    "slug": "rath-yatra",
+    "name": "Rath Yatra (Puri)",
+    "iso": "2028-06-24",
+    "significance": "Jagannath leaves the Puri temple on the great chariot with Balabhadra and Subhadra. Odisha empties into the streets to pull the ropes."
+   },
+   {
+    "slug": "guru-purnima",
+    "name": "Guru Purnima",
+    "iso": "2028-07-06",
+    "significance": "Vyasa's day, when the teacher is honoured. Bow to the one whose words still shape your decisions; if the teacher is gone, light a lamp before their photograph."
+   },
+   {
+    "slug": "naga-panchami",
+    "name": "Naga Panchami",
+    "iso": "2028-07-26",
+    "significance": "The serpent gods are offered milk on the Shravana fifth. A day of protection from snakebite and of the old bond between the household and the naga."
+   },
+   {
+    "slug": "onam",
+    "name": "Onam (Thiruvonam)",
+    "iso": "2028-09-01",
+    "significance": "Kerala's harvest festival, the day King Mahabali returns to his people. The pookalam is laid and the sadya is served on a banana leaf."
+   },
+   {
+    "slug": "raksha-bandhan",
+    "name": "Raksha Bandhan",
+    "iso": "2028-08-05",
+    "significance": "The sister ties a thread on the brother's wrist and the brother promises protection for the year. Old bond, simple gesture, no substitute."
+   },
+   {
+    "slug": "janmashtami",
+    "name": "Krishna Janmashtami",
+    "iso": "2028-08-13",
+    "significance": "Krishna was born at midnight on the eighth of Bhadrapada's dark fortnight. The fast is broken after the moon rises and the midnight abhishekam is done."
+   },
+   {
+    "slug": "ganesh-chaturthi",
+    "name": "Ganesh Chaturthi",
+    "iso": "2028-08-23",
+    "significance": "Ganesha arrives in the home. The murti is installed with modak and durva grass, and stays until the visarjan."
+   },
+   {
+    "slug": "vishwakarma-puja",
+    "name": "Vishwakarma Puja",
+    "iso": "2028-09-16",
+    "significance": "The divine architect is worshipped at Kanya sankranti. Workshops and craftsmen clean and garland their tools, and no work is done on them until the puja is over."
+   },
+   {
+    "slug": "anant-chaturdashi",
+    "name": "Anant Chaturdashi",
+    "iso": "2028-09-02",
+    "significance": "The Vishnu vrat that also closes the ten-day Ganesha festival with the visarjan. A fourteen-knot thread is tied on the right wrist and endurance is asked of Ananta."
+   },
+   {
+    "slug": "navratri-day1",
+    "name": "Sharad Navaratri (Day 1)",
+    "iso": "2028-09-19",
+    "significance": "The nine nights of Durga begin. The ghat is installed and the akhand jyoti is lit; the vrat runs to Vijayadashami."
+   },
+   {
+    "slug": "dussehra",
+    "name": "Dussehra (Vijayadashami)",
+    "iso": "2028-09-27",
+    "significance": "Rama killed Ravana and Durga killed Mahishasura on the same day. Work begun on Vijayadashami is said to carry the victory of both."
+   },
+   {
+    "slug": "karva-chauth",
+    "name": "Karva Chauth",
+    "iso": "2028-10-07",
+    "significance": "Married women fast without water from sunrise until they see the moon at night, then look at the husband through a sieve."
+   },
+   {
+    "slug": "dhanteras",
+    "name": "Dhanteras",
+    "iso": "2028-10-16",
+    "significance": "Dhanvantari rose from the ocean with the pot of amrita. A small metal vessel and a few coins are bought; what enters the home now is said to stay."
+   },
+   {
+    "slug": "naraka-chaturdashi",
+    "name": "Naraka Chaturdashi (Choti Diwali)",
+    "iso": "2028-10-17",
+    "significance": "Krishna killed Narakasura before dawn. An oil bath is taken at sunrise and a single diya is lit at the doorway before nightfall."
+   },
+   {
+    "slug": "diwali",
+    "name": "Diwali (Deepavali)",
+    "iso": "2028-10-17",
+    "significance": "The festival of lights and the Lakshmi puja. Lakshmi visits homes that are clean, lit and welcoming; the puja is done in the pradosh window after sunset."
+   },
+   {
+    "slug": "govardhan-puja",
+    "name": "Govardhan Puja (Annakut)",
+    "iso": "2028-10-18",
+    "significance": "Krishna lifted the Govardhan hill to shelter Vrindavan. The annakut is made, a small mountain of cooked food offered and then shared with the whole house."
+   },
+   {
+    "slug": "bhai-dooj",
+    "name": "Bhai Dooj",
+    "iso": "2028-10-19",
+    "significance": "Yamuna fed her brother Yama. The sister applies tilak on the brother's forehead and the meal she serves is remembered through the year."
+   },
+   {
+    "slug": "chhath-puja",
+    "name": "Chhath Puja",
+    "iso": "2028-10-23",
+    "significance": "The four-day Surya vrat of the Bhojpuri belt, peaking with the sunset and sunrise arghya to the Sun standing in the river. One of the hardest vrats kept."
+   },
+   {
+    "slug": "tulsi-vivah",
+    "name": "Tulsi Vivah",
+    "iso": "2028-10-29",
+    "significance": "The ceremonial marriage of the tulsi plant to Vishnu that opens the wedding season. The courtyard tulsi is dressed as a bride at dusk."
+   },
+   {
+    "slug": "kartik-purnima",
+    "name": "Kartik Purnima",
+    "iso": "2028-11-02",
+    "significance": "The full moon that closes the Kartik vrat month. Varanasi lights the ghats for Dev Deepawali; it is also Guru Nanak Jayanti.",
+    "regionalVariants": "Dev Deepawali (Varanasi), Guru Nanak Jayanti"
+   },
+   {
+    "slug": "gita-jayanti",
+    "name": "Gita Jayanti",
+    "iso": "2028-11-27",
+    "significance": "The day Krishna spoke the Bhagavad Gita to Arjuna on the field of Kurukshetra. A chapter is read and the text is honoured on the home altar."
+   },
+   {
+    "slug": "datta-jayanti",
+    "name": "Dattatreya Jayanti",
+    "iso": "2028-12-01",
+    "significance": "The birth of Dattatreya, the union of Brahma, Vishnu and Shiva. The Margashira full-moon evening is given to his worship and the reading of his charitra."
+   }
+  ]
+ },
+ "festival_rules": {
+  "makar-sankranti": {
+   "kind": "sankranti",
+   "sign": "Makara",
+   "mode": "punya",
+   "basis": "Sun's sidereal ingress into Makara; punya kaal moves to the next sunrise when the ingress falls after sunset"
+  },
+  "lohri": {
+   "kind": "offset",
+   "from": "makar-sankranti",
+   "offsetDays": -1,
+   "basis": "the eve of Makar Sankranti"
+  },
+  "vasant-panchami": {
+   "kind": "lunar",
+   "masa": "Magha",
+   "paksha": "shukla",
+   "tithi": 5,
+   "at": "sunrise",
+   "basis": "Magha Shukla Panchami at sunrise"
+  },
+  "maha-shivratri": {
+   "kind": "lunar",
+   "masa": "Magha",
+   "paksha": "krishna",
+   "tithi": 14,
+   "at": "nishita",
+   "basis": "amanta Magha Krishna Chaturdashi (purnimanta Phalguna) prevailing at nishita"
+  },
+  "holika-dahan": {
+   "kind": "lunar",
+   "masa": "Phalguna",
+   "paksha": "shukla",
+   "tithi": 15,
+   "at": "sunrise",
+   "fallbackAt": "pradosh",
+   "basis": "the civil day carrying Phalguna Purnima; the dahan itself waits for Bhadra to end that evening"
+  },
+  "holi": {
+   "kind": "lunar",
+   "masa": "Phalguna",
+   "paksha": "krishna",
+   "tithi": 1,
+   "at": "sunrise",
+   "basis": "amanta Phalguna Krishna Pratipada (purnimanta Chaitra) at sunrise, the day after Holika Dahan"
+  },
+  "ugadi-gudi-padwa": {
+   "kind": "lunar",
+   "masa": "Chaitra",
+   "paksha": "shukla",
+   "tithi": 1,
+   "at": "sunrise",
+   "fallbackAt": "madhyahna",
+   "basis": "Chaitra Shukla Pratipada"
+  },
+  "ram-navami": {
+   "kind": "lunar",
+   "masa": "Chaitra",
+   "paksha": "shukla",
+   "tithi": 9,
+   "at": "sunrise",
+   "basis": "Chaitra Shukla Navami at sunrise"
+  },
+  "mahavir-jayanti": {
+   "kind": "lunar",
+   "masa": "Chaitra",
+   "paksha": "shukla",
+   "tithi": 13,
+   "at": "sunrise",
+   "basis": "Chaitra Shukla Trayodashi at sunrise"
+  },
+  "hanuman-jayanti": {
+   "kind": "lunar",
+   "masa": "Chaitra",
+   "paksha": "shukla",
+   "tithi": 15,
+   "at": "sunrise",
+   "basis": "Chaitra Purnima at sunrise"
+  },
+  "baisakhi": {
+   "kind": "sankranti",
+   "sign": "Mesha",
+   "mode": "punya",
+   "basis": "Mesha sankranti"
+  },
+  "akshaya-tritiya": {
+   "kind": "lunar",
+   "masa": "Vaishakha",
+   "paksha": "shukla",
+   "tithi": 3,
+   "at": "sunrise",
+   "basis": "Vaishakha Shukla Tritiya at sunrise"
+  },
+  "buddha-purnima": {
+   "kind": "lunar",
+   "masa": "Vaishakha",
+   "paksha": "shukla",
+   "tithi": 15,
+   "at": "sunrise",
+   "basis": "Vaishakha Purnima at sunrise"
+  },
+  "ganga-dussehra": {
+   "kind": "lunar",
+   "masa": "Jyeshtha",
+   "paksha": "shukla",
+   "tithi": 10,
+   "at": "sunrise",
+   "basis": "Jyeshtha Shukla Dashami at sunrise"
+  },
+  "nirjala-ekadashi": {
+   "kind": "lunar",
+   "masa": "Jyeshtha",
+   "paksha": "shukla",
+   "tithi": 11,
+   "at": "sunrise",
+   "basis": "Jyeshtha Shukla Ekadashi at sunrise"
+  },
+  "rath-yatra": {
+   "kind": "lunar",
+   "masa": "Ashadha",
+   "paksha": "shukla",
+   "tithi": 2,
+   "at": "sunrise",
+   "basis": "Ashadha Shukla Dwitiya at sunrise"
+  },
+  "guru-purnima": {
+   "kind": "lunar",
+   "masa": "Ashadha",
+   "paksha": "shukla",
+   "tithi": 15,
+   "at": "sunrise",
+   "basis": "Ashadha Purnima at sunrise"
+  },
+  "naga-panchami": {
+   "kind": "lunar",
+   "masa": "Shravana",
+   "paksha": "shukla",
+   "tithi": 5,
+   "at": "sunrise",
+   "basis": "Shravana Shukla Panchami at sunrise"
+  },
+  "raksha-bandhan": {
+   "kind": "lunar",
+   "masa": "Shravana",
+   "paksha": "shukla",
+   "tithi": 15,
+   "at": "sunrise",
+   "basis": "Shravana Purnima at sunrise; the previous afternoon sits inside Bhadra in both 2026 and 2027"
+  },
+  "onam": {
+   "kind": "nakshatra",
+   "nakshatra": "Shravana",
+   "solarSign": "Simha",
+   "basis": "Thiruvonam (Shravana) nakshatra at sunrise within the Simha / Chingam solar month"
+  },
+  "janmashtami": {
+   "kind": "lunar",
+   "masa": "Shravana",
+   "paksha": "krishna",
+   "tithi": 8,
+   "at": "sunrise",
+   "basis": "amanta Shravana Krishna Ashtami (purnimanta Bhadrapada) at sunrise"
+  },
+  "hartalika-teej": {
+   "kind": "lunar",
+   "masa": "Bhadrapada",
+   "paksha": "shukla",
+   "tithi": 3,
+   "at": "pratahkala",
+   "fallbackAt": "sunrise",
+   "basis": "Bhadrapada Shukla Tritiya present during pratahkala"
+  },
+  "ganesh-chaturthi": {
+   "kind": "lunar",
+   "masa": "Bhadrapada",
+   "paksha": "shukla",
+   "tithi": 4,
+   "at": "madhyahna",
+   "basis": "Bhadrapada Shukla Chaturthi at madhyahna"
+  },
+  "vishwakarma-puja": {
+   "kind": "sankranti",
+   "sign": "Kanya",
+   "mode": "ingress-day",
+   "basis": "Kanya sankranti"
+  },
+  "anant-chaturdashi": {
+   "kind": "lunar",
+   "masa": "Bhadrapada",
+   "paksha": "shukla",
+   "tithi": 14,
+   "at": "sunrise",
+   "basis": "Bhadrapada Shukla Chaturdashi at sunrise"
+  },
+  "navratri-day1": {
+   "kind": "lunar",
+   "masa": "Ashwin",
+   "paksha": "shukla",
+   "tithi": 1,
+   "at": "sunrise",
+   "fallbackAt": "madhyahna",
+   "basis": "Ashwin Shukla Pratipada (ghatasthapana)"
+  },
+  "dussehra": {
+   "kind": "lunar",
+   "masa": "Ashwin",
+   "paksha": "shukla",
+   "tithi": 10,
+   "at": "aparahna",
+   "basis": "Ashwin Shukla Dashami prevailing at aparahna"
+  },
+  "karva-chauth": {
+   "kind": "lunar",
+   "masa": "Ashwin",
+   "paksha": "krishna",
+   "tithi": 4,
+   "at": "moonrise",
+   "basis": "amanta Ashwin Krishna Chaturthi (purnimanta Kartika) prevailing at moonrise"
+  },
+  "dhanteras": {
+   "kind": "lunar",
+   "masa": "Ashwin",
+   "paksha": "krishna",
+   "tithi": 13,
+   "at": "pradosh",
+   "fallbackAt": "sunrise",
+   "basis": "amanta Ashwin Krishna Trayodashi (purnimanta Kartika) running in the pradosh window, because the puja is an evening rite"
+  },
+  "naraka-chaturdashi": {
+   "kind": "lunar",
+   "masa": "Ashwin",
+   "paksha": "krishna",
+   "tithi": 14,
+   "at": "sunrise",
+   "basis": "amanta Ashwin Krishna Chaturdashi (purnimanta Kartika) at sunrise"
+  },
+  "diwali": {
+   "kind": "lunar",
+   "masa": "Ashwin",
+   "paksha": "krishna",
+   "tithi": 15,
+   "at": "pradosh",
+   "basis": "amanta Ashwin Amavasya (purnimanta Kartika) present in the pradosh window, because the Lakshmi puja is a pradosh rite"
+  },
+  "govardhan-puja": {
+   "kind": "lunar",
+   "masa": "Kartik",
+   "paksha": "shukla",
+   "tithi": 1,
+   "at": "sunrise",
+   "kshaya": "running-day",
+   "basis": "Kartika Shukla Pratipada at sunrise (udaya, Drik Panchang convention; founder ruling 2026-10-25); a kshaya pratipada goes to the day it runs"
+  },
+  "bhai-dooj": {
+   "kind": "lunar",
+   "masa": "Kartik",
+   "paksha": "shukla",
+   "tithi": 2,
+   "at": "sunrise",
+   "basis": "Kartika Shukla Dwitiya at sunrise, which is also the aparahna the tilak needs"
+  },
+  "chhath-puja": {
+   "kind": "lunar",
+   "masa": "Kartik",
+   "paksha": "shukla",
+   "tithi": 6,
+   "at": "pradosh",
+   "basis": "Kartika Shukla Shashthi present at sunset, when the sandhya arghya is offered"
+  },
+  "tulsi-vivah": {
+   "kind": "lunar",
+   "masa": "Kartik",
+   "paksha": "shukla",
+   "tithi": 12,
+   "at": "sunrise",
+   "basis": "Kartika Shukla Dwadashi at sunrise, the day after Prabodhini Ekadashi"
+  },
+  "kartik-purnima": {
+   "kind": "lunar",
+   "masa": "Kartik",
+   "paksha": "shukla",
+   "tithi": 15,
+   "at": "sunrise",
+   "basis": "Kartika Purnima at sunrise"
+  },
+  "gita-jayanti": {
+   "kind": "lunar",
+   "masa": "Margashira",
+   "paksha": "shukla",
+   "tithi": 11,
+   "at": "sunrise",
+   "basis": "Margashirsha Shukla Ekadashi (Mokshada Ekadashi) at sunrise"
+  },
+  "datta-jayanti": {
+   "kind": "lunar",
+   "masa": "Margashira",
+   "paksha": "shukla",
+   "tithi": 15,
+   "at": "pradosh",
+   "basis": "Margashirsha Purnima present at pradosh; in 2026 that Purnima never touches a sunrise"
+  }
+ }
+}

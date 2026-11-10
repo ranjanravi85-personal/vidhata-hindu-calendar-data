@@ -1,0 +1,14 @@
+planet,from_sign,to_sign,from_sign_number,to_sign_number,retrograde,ist_date,ist_time,utc_instant,context
+jupiter,Karka (Cancer),Simha (Leo),4,5,false,2026-10-31,12:03,2026-10-31T06:33Z,previous_before_2027
+saturn,Kumbha (Aquarius),Meena (Pisces),11,12,false,2025-03-29,21:45,2025-03-29T16:15Z,previous_before_2027
+rahu,Kumbha (Aquarius),Makara (Capricorn),11,10,true,2026-12-05,22:32,2026-12-05T17:02Z,previous_before_2027
+ketu,Simha (Leo),Karka (Cancer),5,4,true,2026-12-05,22:32,2026-12-05T17:02Z,previous_before_2027
+jupiter,Simha (Leo),Karka (Cancer),5,4,true,2027-01-25,01:31,2027-01-24T20:01Z,during_2027
+saturn,Meena (Pisces),Mesha (Aries),12,1,false,2027-06-03,05:28,2027-06-02T23:58Z,during_2027
+jupiter,Karka (Cancer),Simha (Leo),4,5,false,2027-06-26,05:19,2027-06-25T23:49Z,during_2027
+saturn,Mesha (Aries),Meena (Pisces),1,12,true,2027-10-20,07:12,2027-10-20T01:42Z,during_2027
+jupiter,Simha (Leo),Kanya (Virgo),5,6,false,2027-11-26,18:45,2027-11-26T13:15Z,during_2027
+jupiter,Kanya (Virgo),Simha (Leo),6,5,true,2028-02-28,19:17,2028-02-28T13:47Z,next_after_2027
+saturn,Meena (Pisces),Mesha (Aries),12,1,false,2028-02-23,19:24,2028-02-23T13:54Z,next_after_2027
+rahu,Makara (Capricorn),Dhanu (Sagittarius),10,9,true,2028-06-24,01:30,2028-06-23T20:00Z,next_after_2027
+ketu,Karka (Cancer),Mithuna (Gemini),4,3,true,2028-06-24,01:30,2028-06-23T20:00Z,next_after_2027

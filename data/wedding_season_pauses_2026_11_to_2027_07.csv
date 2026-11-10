@@ -1,0 +1,8 @@
+pause_code,from_date,to_date,days_inclusive,reason,scan_start,scan_end,clipped_by_scan
+chaturmas,2026-11-01,2026-11-20,20,"Chaturmas, Devshayani Ekadashi to Prabodhini Ekadashi",2026-11-01,2027-07-31,true
+shukra_asta,2026-11-01,2026-11-01,1,Venus combust (fixed engine orb) plus 3 days margin each side,2026-11-01,2027-07-31,true
+kharmas,2026-12-16,2027-01-14,30,Sun in sidereal Dhanu (Sagittarius),2026-11-01,2027-07-31,false
+malmas,2027-03-15,2027-04-14,31,Sun in sidereal Meena (Pisces),2026-11-01,2027-07-31,false
+shukra_asta,2027-07-04,2027-07-31,28,Venus combust (fixed engine orb) plus 3 days margin each side,2026-11-01,2027-07-31,true
+chaturmas,2027-07-13,2027-07-31,19,"Chaturmas, Devshayani Ekadashi to Prabodhini Ekadashi",2026-11-01,2027-07-31,true
+vivah_solar_month,2027-07-17,2027-07-31,15,"Sun in Karka, Simha or Kanya; outside the solar months that allow weddings",2026-11-01,2027-07-31,true

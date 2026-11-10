@@ -1,0 +1,9 @@
+boundary,planet,at_ist,sign,degree_in_sign,retrograde
+start_of_2027,jupiter,2027-01-01T00:00+05:30,Simha (Leo),2.22,true
+start_of_2027,saturn,2027-01-01T00:00+05:30,Meena (Pisces),14.09,false
+start_of_2027,rahu,2027-01-01T00:00+05:30,Makara (Capricorn),28.62,true
+start_of_2027,ketu,2027-01-01T00:00+05:30,Karka (Cancer),28.62,true
+end_of_2027,jupiter,2027-12-31T23:59+05:30,Kanya (Virgo),3.05,false
+end_of_2027,saturn,2027-12-31T23:59+05:30,Meena (Pisces),26.82,false
+end_of_2027,rahu,2027-12-31T23:59+05:30,Makara (Capricorn),9.28,true
+end_of_2027,ketu,2027-12-31T23:59+05:30,Karka (Cancer),9.28,true

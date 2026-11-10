@@ -1,0 +1,3 @@
+city_slug,city_name,latitude,longitude,timezone,difference,date,nakshatra,tithi,local_warnings
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,lost_vs_new_delhi,2027-01-31,Anuradha,Krishna Navami,Avoid tithi: Krishna Navami
+kolkata,Kolkata,22.5726,88.3639,Asia/Kolkata,lost_vs_new_delhi,2027-06-21,Purva Ashadha,Krishna Dwitiya,

@@ -1,0 +1,5 @@
+location_slug,location_name,latitude,longitude,timezone,ekadashi,date,lunar_month_amanta,kshaya
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,devshayani,2027-07-14,Ashadha,false
+ujjain,Ujjain,23.1765,75.7885,Asia/Kolkata,prabodhini,2027-11-10,Kartik,false
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,devshayani,2027-07-14,Ashadha,false
+new-delhi,New Delhi,28.6139,77.209,Asia/Kolkata,prabodhini,2027-11-10,Kartik,false

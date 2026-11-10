@@ -1,0 +1,14 @@
+date,weekday,nakshatra,engine_strict_pass,note,reference_location,latitude,longitude,timezone
+2026-02-06,Friday,Hasta,false,Kept although the engine fixed Venus orb (10 degrees direct) drops it; Venus had risen by visibility dates and the mainstream almanac lists it,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-02-20,Friday,Uttara Bhadrapada,false,Kept although the engine fixed Venus orb (10 degrees direct) drops it; Venus had risen by visibility dates and the mainstream almanac lists it,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-02-26,Thursday,Mrigashira,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-03-08,Sunday,Swati,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-04-20,Monday,Rohini,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-04-26,Sunday,Magha,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-04-29,Wednesday,Hasta,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-06-25,Thursday,Swati,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-11-25,Wednesday,Rohini,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-11-26,Thursday,Mrigashira,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-12-03,Thursday,Uttara Phalguni,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-12-04,Friday,Hasta,true,,Ujjain,23.1765,75.7885,Asia/Kolkata
+2026-12-06,Sunday,Swati,true,,Ujjain,23.1765,75.7885,Asia/Kolkata

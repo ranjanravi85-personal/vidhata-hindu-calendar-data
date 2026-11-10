@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Hindu Calendar and Muhurat Data 2026-2028 (computed, Vidhata)"
+type: dataset
+authors:
+  - name: "Vidhata"
+    website: "https://vidhata.app"
+    email: "contact@vidhata.app"
+url: "https://vidhata.app"
+repository: "https://github.com/ranjanravi85-personal/vidhata-hindu-calendar-data"
+license: CC-BY-4.0
+date-released: 2026-11-10
+keywords:
+  - hindu calendar
+  - panchang
+  - muhurat
+  - vedic astrology
+  - festivals
+  - india
